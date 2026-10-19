@@ -1,0 +1,12 @@
+{
+  "unlocked_by_default": true,
+  "exclusive_root": false,
+  "title": "Pescador Experto",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "minecraft:fishing_rod"
+    }
+  },
+  "background": "textures/block/prismarine_bricks.png"
+}

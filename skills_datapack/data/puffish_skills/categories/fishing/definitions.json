@@ -1,0 +1,2627 @@
+{
+  "fortune_r1": {
+    "title": "Señuelo Afortunado 1",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+0.1 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r2": {
+    "title": "Señuelo Afortunado 2",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+0.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r3": {
+    "title": "Señuelo Afortunado 3",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+0.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r4": {
+    "title": "Señuelo Afortunado 4",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r5": {
+    "title": "Señuelo Afortunado 5",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+0.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r6": {
+    "title": "Señuelo Afortunado 6",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r7": {
+    "title": "Señuelo Afortunado 7",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+0.7 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r8": {
+    "title": "Señuelo Afortunado 8",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r9": {
+    "title": "Señuelo Afortunado 9",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+0.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r10": {
+    "title": "Señuelo Afortunado 10",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+1.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r11": {
+    "title": "Señuelo Afortunado 11",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+1.1 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r12": {
+    "title": "Señuelo Afortunado 12",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r13": {
+    "title": "Señuelo Afortunado 13",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+1.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r14": {
+    "title": "Señuelo Afortunado 14",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+1.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r15": {
+    "title": "Señuelo Afortunado 15",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+1.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r16": {
+    "title": "Señuelo Afortunado 16",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+1.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r17": {
+    "title": "Señuelo Afortunado 17",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+1.7 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r18": {
+    "title": "Señuelo Afortunado 18",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+1.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r19": {
+    "title": "Señuelo Afortunado 19",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+1.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r20": {
+    "title": "Señuelo Afortunado 20",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r21": {
+    "title": "Señuelo Afortunado 21",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+2.1 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r22": {
+    "title": "Señuelo Afortunado 22",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+2.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r23": {
+    "title": "Señuelo Afortunado 23",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+2.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r24": {
+    "title": "Señuelo Afortunado 24",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+2.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r25": {
+    "title": "Señuelo Afortunado 25",
+    "description": "Aumenta la probabilidad de pescar tesoros y peces valiosos. (+2.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cod"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r1": {
+    "title": "Sabiduría Marina 1",
+    "description": "Otorga más experiencia al pescar. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r2": {
+    "title": "Sabiduría Marina 2",
+    "description": "Otorga más experiencia al pescar. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r3": {
+    "title": "Sabiduría Marina 3",
+    "description": "Otorga más experiencia al pescar. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r4": {
+    "title": "Sabiduría Marina 4",
+    "description": "Otorga más experiencia al pescar. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r5": {
+    "title": "Sabiduría Marina 5",
+    "description": "Otorga más experiencia al pescar. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r6": {
+    "title": "Sabiduría Marina 6",
+    "description": "Otorga más experiencia al pescar. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r7": {
+    "title": "Sabiduría Marina 7",
+    "description": "Otorga más experiencia al pescar. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r8": {
+    "title": "Sabiduría Marina 8",
+    "description": "Otorga más experiencia al pescar. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r9": {
+    "title": "Sabiduría Marina 9",
+    "description": "Otorga más experiencia al pescar. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r10": {
+    "title": "Sabiduría Marina 10",
+    "description": "Otorga más experiencia al pescar. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r11": {
+    "title": "Sabiduría Marina 11",
+    "description": "Otorga más experiencia al pescar. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r12": {
+    "title": "Sabiduría Marina 12",
+    "description": "Otorga más experiencia al pescar. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r13": {
+    "title": "Sabiduría Marina 13",
+    "description": "Otorga más experiencia al pescar. (+1.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r14": {
+    "title": "Sabiduría Marina 14",
+    "description": "Otorga más experiencia al pescar. (+1.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r15": {
+    "title": "Sabiduría Marina 15",
+    "description": "Otorga más experiencia al pescar. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r16": {
+    "title": "Sabiduría Marina 16",
+    "description": "Otorga más experiencia al pescar. (+1.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r17": {
+    "title": "Sabiduría Marina 17",
+    "description": "Otorga más experiencia al pescar. (+1.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r18": {
+    "title": "Sabiduría Marina 18",
+    "description": "Otorga más experiencia al pescar. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r19": {
+    "title": "Sabiduría Marina 19",
+    "description": "Otorga más experiencia al pescar. (+1.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r20": {
+    "title": "Sabiduría Marina 20",
+    "description": "Otorga más experiencia al pescar. (+1.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r21": {
+    "title": "Sabiduría Marina 21",
+    "description": "Otorga más experiencia al pescar. (+1.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r22": {
+    "title": "Sabiduría Marina 22",
+    "description": "Otorga más experiencia al pescar. (+1.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r23": {
+    "title": "Sabiduría Marina 23",
+    "description": "Otorga más experiencia al pescar. (+1.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r24": {
+    "title": "Sabiduría Marina 24",
+    "description": "Otorga más experiencia al pescar. (+1.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "xp_boost_r25": {
+    "title": "Sabiduría Marina 25",
+    "description": "Otorga más experiencia al pescar. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r1": {
+    "title": "Brazas de Hierro 1",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.02 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r2": {
+    "title": "Brazas de Hierro 2",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r3": {
+    "title": "Brazas de Hierro 3",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.06 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r4": {
+    "title": "Brazas de Hierro 4",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r5": {
+    "title": "Brazas de Hierro 5",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.1 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r6": {
+    "title": "Brazas de Hierro 6",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r7": {
+    "title": "Brazas de Hierro 7",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.14 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r8": {
+    "title": "Brazas de Hierro 8",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r9": {
+    "title": "Brazas de Hierro 9",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.18 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r10": {
+    "title": "Brazas de Hierro 10",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r11": {
+    "title": "Brazas de Hierro 11",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.22 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r12": {
+    "title": "Brazas de Hierro 12",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r13": {
+    "title": "Brazas de Hierro 13",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.26 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r14": {
+    "title": "Brazas de Hierro 14",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r15": {
+    "title": "Brazas de Hierro 15",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r16": {
+    "title": "Brazas de Hierro 16",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r17": {
+    "title": "Brazas de Hierro 17",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.34 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r18": {
+    "title": "Brazas de Hierro 18",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r19": {
+    "title": "Brazas de Hierro 19",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.38 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r20": {
+    "title": "Brazas de Hierro 20",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r21": {
+    "title": "Brazas de Hierro 21",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.42 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r22": {
+    "title": "Brazas de Hierro 22",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r23": {
+    "title": "Brazas de Hierro 23",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.46 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r24": {
+    "title": "Brazas de Hierro 24",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nautical_strength_r25": {
+    "title": "Brazas de Hierro 25",
+    "description": "Resistencia en el agua y ambientes húmedos. (+0.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:nautilus_shell"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r1": {
+    "title": "Arponero 1",
+    "description": "Aumenta el daño letal de los tridentes. (+0.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r2": {
+    "title": "Arponero 2",
+    "description": "Aumenta el daño letal de los tridentes. (+1.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r3": {
+    "title": "Arponero 3",
+    "description": "Aumenta el daño letal de los tridentes. (+1.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r4": {
+    "title": "Arponero 4",
+    "description": "Aumenta el daño letal de los tridentes. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r5": {
+    "title": "Arponero 5",
+    "description": "Aumenta el daño letal de los tridentes. (+2.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r6": {
+    "title": "Arponero 6",
+    "description": "Aumenta el daño letal de los tridentes. (+3.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r7": {
+    "title": "Arponero 7",
+    "description": "Aumenta el daño letal de los tridentes. (+3.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r8": {
+    "title": "Arponero 8",
+    "description": "Aumenta el daño letal de los tridentes. (+4.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r9": {
+    "title": "Arponero 9",
+    "description": "Aumenta el daño letal de los tridentes. (+4.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r10": {
+    "title": "Arponero 10",
+    "description": "Aumenta el daño letal de los tridentes. (+5.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r11": {
+    "title": "Arponero 11",
+    "description": "Aumenta el daño letal de los tridentes. (+5.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r12": {
+    "title": "Arponero 12",
+    "description": "Aumenta el daño letal de los tridentes. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r13": {
+    "title": "Arponero 13",
+    "description": "Aumenta el daño letal de los tridentes. (+6.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r14": {
+    "title": "Arponero 14",
+    "description": "Aumenta el daño letal de los tridentes. (+7.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r15": {
+    "title": "Arponero 15",
+    "description": "Aumenta el daño letal de los tridentes. (+7.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r16": {
+    "title": "Arponero 16",
+    "description": "Aumenta el daño letal de los tridentes. (+8.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r17": {
+    "title": "Arponero 17",
+    "description": "Aumenta el daño letal de los tridentes. (+8.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r18": {
+    "title": "Arponero 18",
+    "description": "Aumenta el daño letal de los tridentes. (+9.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r19": {
+    "title": "Arponero 19",
+    "description": "Aumenta el daño letal de los tridentes. (+9.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r20": {
+    "title": "Arponero 20",
+    "description": "Aumenta el daño letal de los tridentes. (+10.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r21": {
+    "title": "Arponero 21",
+    "description": "Aumenta el daño letal de los tridentes. (+10.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r22": {
+    "title": "Arponero 22",
+    "description": "Aumenta el daño letal de los tridentes. (+11.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r23": {
+    "title": "Arponero 23",
+    "description": "Aumenta el daño letal de los tridentes. (+11.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r24": {
+    "title": "Arponero 24",
+    "description": "Aumenta el daño letal de los tridentes. (+12.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "harpoon_r25": {
+    "title": "Arponero 25",
+    "description": "Aumenta el daño letal de los tridentes. (+12.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:trident"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:trident_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r1": {
+    "title": "Bendición del Océano 1",
+    "description": "Potencia la recuperación y salud general. (+0.06 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r2": {
+    "title": "Bendición del Océano 2",
+    "description": "Potencia la recuperación y salud general. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r3": {
+    "title": "Bendición del Océano 3",
+    "description": "Potencia la recuperación y salud general. (+0.18 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r4": {
+    "title": "Bendición del Océano 4",
+    "description": "Potencia la recuperación y salud general. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r5": {
+    "title": "Bendición del Océano 5",
+    "description": "Potencia la recuperación y salud general. (+0.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r6": {
+    "title": "Bendición del Océano 6",
+    "description": "Potencia la recuperación y salud general. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r7": {
+    "title": "Bendición del Océano 7",
+    "description": "Potencia la recuperación y salud general. (+0.42 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r8": {
+    "title": "Bendición del Océano 8",
+    "description": "Potencia la recuperación y salud general. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r9": {
+    "title": "Bendición del Océano 9",
+    "description": "Potencia la recuperación y salud general. (+0.54 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r10": {
+    "title": "Bendición del Océano 10",
+    "description": "Potencia la recuperación y salud general. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r11": {
+    "title": "Bendición del Océano 11",
+    "description": "Potencia la recuperación y salud general. (+0.66 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r12": {
+    "title": "Bendición del Océano 12",
+    "description": "Potencia la recuperación y salud general. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r13": {
+    "title": "Bendición del Océano 13",
+    "description": "Potencia la recuperación y salud general. (+0.78 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r14": {
+    "title": "Bendición del Océano 14",
+    "description": "Potencia la recuperación y salud general. (+0.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r15": {
+    "title": "Bendición del Océano 15",
+    "description": "Potencia la recuperación y salud general. (+0.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r16": {
+    "title": "Bendición del Océano 16",
+    "description": "Potencia la recuperación y salud general. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r17": {
+    "title": "Bendición del Océano 17",
+    "description": "Potencia la recuperación y salud general. (+1.02 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r18": {
+    "title": "Bendición del Océano 18",
+    "description": "Potencia la recuperación y salud general. (+1.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r19": {
+    "title": "Bendición del Océano 19",
+    "description": "Potencia la recuperación y salud general. (+1.14 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r20": {
+    "title": "Bendición del Océano 20",
+    "description": "Potencia la recuperación y salud general. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r21": {
+    "title": "Bendición del Océano 21",
+    "description": "Potencia la recuperación y salud general. (+1.26 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r22": {
+    "title": "Bendición del Océano 22",
+    "description": "Potencia la recuperación y salud general. (+1.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r23": {
+    "title": "Bendición del Océano 23",
+    "description": "Potencia la recuperación y salud general. (+1.38 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r24": {
+    "title": "Bendición del Océano 24",
+    "description": "Potencia la recuperación y salud general. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ocean_blessing_r25": {
+    "title": "Bendición del Océano 25",
+    "description": "Potencia la recuperación y salud general. (+1.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heart_of_the_sea"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:healing",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  }
+}

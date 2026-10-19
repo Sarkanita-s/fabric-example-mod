@@ -1,0 +1,2627 @@
+{
+  "crop_yield_r1": {
+    "title": "Cosecha Abundante 1",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r2": {
+    "title": "Cosecha Abundante 2",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r3": {
+    "title": "Cosecha Abundante 3",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r4": {
+    "title": "Cosecha Abundante 4",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r5": {
+    "title": "Cosecha Abundante 5",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r6": {
+    "title": "Cosecha Abundante 6",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r7": {
+    "title": "Cosecha Abundante 7",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+0.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r8": {
+    "title": "Cosecha Abundante 8",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r9": {
+    "title": "Cosecha Abundante 9",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+1.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r10": {
+    "title": "Cosecha Abundante 10",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r11": {
+    "title": "Cosecha Abundante 11",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+1.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r12": {
+    "title": "Cosecha Abundante 12",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r13": {
+    "title": "Cosecha Abundante 13",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+1.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r14": {
+    "title": "Cosecha Abundante 14",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+1.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r15": {
+    "title": "Cosecha Abundante 15",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+1.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r16": {
+    "title": "Cosecha Abundante 16",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+1.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r17": {
+    "title": "Cosecha Abundante 17",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+2.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r18": {
+    "title": "Cosecha Abundante 18",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+2.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r19": {
+    "title": "Cosecha Abundante 19",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+2.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r20": {
+    "title": "Cosecha Abundante 20",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+2.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r21": {
+    "title": "Cosecha Abundante 21",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+2.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r22": {
+    "title": "Cosecha Abundante 22",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+2.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r23": {
+    "title": "Cosecha Abundante 23",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+2.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r24": {
+    "title": "Cosecha Abundante 24",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+2.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crop_yield_r25": {
+    "title": "Cosecha Abundante 25",
+    "description": "Aumenta enormemente la cantidad de trigo, patatas, zanahorias y semillas obtenidas al cosechar. (+3.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wheat"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r1": {
+    "title": "Semillas y Frutos Dorados 1",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r2": {
+    "title": "Semillas y Frutos Dorados 2",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r3": {
+    "title": "Semillas y Frutos Dorados 3",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r4": {
+    "title": "Semillas y Frutos Dorados 4",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r5": {
+    "title": "Semillas y Frutos Dorados 5",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r6": {
+    "title": "Semillas y Frutos Dorados 6",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r7": {
+    "title": "Semillas y Frutos Dorados 7",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r8": {
+    "title": "Semillas y Frutos Dorados 8",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r9": {
+    "title": "Semillas y Frutos Dorados 9",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r10": {
+    "title": "Semillas y Frutos Dorados 10",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r11": {
+    "title": "Semillas y Frutos Dorados 11",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r12": {
+    "title": "Semillas y Frutos Dorados 12",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r13": {
+    "title": "Semillas y Frutos Dorados 13",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+1.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r14": {
+    "title": "Semillas y Frutos Dorados 14",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+1.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r15": {
+    "title": "Semillas y Frutos Dorados 15",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r16": {
+    "title": "Semillas y Frutos Dorados 16",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+1.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r17": {
+    "title": "Semillas y Frutos Dorados 17",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+1.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r18": {
+    "title": "Semillas y Frutos Dorados 18",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r19": {
+    "title": "Semillas y Frutos Dorados 19",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+1.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r20": {
+    "title": "Semillas y Frutos Dorados 20",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+1.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r21": {
+    "title": "Semillas y Frutos Dorados 21",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+1.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r22": {
+    "title": "Semillas y Frutos Dorados 22",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+1.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r23": {
+    "title": "Semillas y Frutos Dorados 23",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+1.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r24": {
+    "title": "Semillas y Frutos Dorados 24",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+1.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "rare_harvest_r25": {
+    "title": "Semillas y Frutos Dorados 25",
+    "description": "Potencia los drops adicionales y la fortuna agrícola al recolectar. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_carrot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r1": {
+    "title": "Digestión Rápida 1",
+    "description": "Reduce el tiempo necesario para comer o beber. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r2": {
+    "title": "Digestión Rápida 2",
+    "description": "Reduce el tiempo necesario para comer o beber. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r3": {
+    "title": "Digestión Rápida 3",
+    "description": "Reduce el tiempo necesario para comer o beber. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r4": {
+    "title": "Digestión Rápida 4",
+    "description": "Reduce el tiempo necesario para comer o beber. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r5": {
+    "title": "Digestión Rápida 5",
+    "description": "Reduce el tiempo necesario para comer o beber. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r6": {
+    "title": "Digestión Rápida 6",
+    "description": "Reduce el tiempo necesario para comer o beber. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r7": {
+    "title": "Digestión Rápida 7",
+    "description": "Reduce el tiempo necesario para comer o beber. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r8": {
+    "title": "Digestión Rápida 8",
+    "description": "Reduce el tiempo necesario para comer o beber. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r9": {
+    "title": "Digestión Rápida 9",
+    "description": "Reduce el tiempo necesario para comer o beber. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r10": {
+    "title": "Digestión Rápida 10",
+    "description": "Reduce el tiempo necesario para comer o beber. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r11": {
+    "title": "Digestión Rápida 11",
+    "description": "Reduce el tiempo necesario para comer o beber. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r12": {
+    "title": "Digestión Rápida 12",
+    "description": "Reduce el tiempo necesario para comer o beber. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r13": {
+    "title": "Digestión Rápida 13",
+    "description": "Reduce el tiempo necesario para comer o beber. (+1.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r14": {
+    "title": "Digestión Rápida 14",
+    "description": "Reduce el tiempo necesario para comer o beber. (+1.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r15": {
+    "title": "Digestión Rápida 15",
+    "description": "Reduce el tiempo necesario para comer o beber. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r16": {
+    "title": "Digestión Rápida 16",
+    "description": "Reduce el tiempo necesario para comer o beber. (+1.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r17": {
+    "title": "Digestión Rápida 17",
+    "description": "Reduce el tiempo necesario para comer o beber. (+1.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r18": {
+    "title": "Digestión Rápida 18",
+    "description": "Reduce el tiempo necesario para comer o beber. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r19": {
+    "title": "Digestión Rápida 19",
+    "description": "Reduce el tiempo necesario para comer o beber. (+1.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r20": {
+    "title": "Digestión Rápida 20",
+    "description": "Reduce el tiempo necesario para comer o beber. (+1.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r21": {
+    "title": "Digestión Rápida 21",
+    "description": "Reduce el tiempo necesario para comer o beber. (+1.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r22": {
+    "title": "Digestión Rápida 22",
+    "description": "Reduce el tiempo necesario para comer o beber. (+1.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r23": {
+    "title": "Digestión Rápida 23",
+    "description": "Reduce el tiempo necesario para comer o beber. (+1.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r24": {
+    "title": "Digestión Rápida 24",
+    "description": "Reduce el tiempo necesario para comer o beber. (+1.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eat_speed_r25": {
+    "title": "Digestión Rápida 25",
+    "description": "Reduce el tiempo necesario para comer o beber. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:consuming_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r1": {
+    "title": "Metabolismo Eficiente 1",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+0.06 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r2": {
+    "title": "Metabolismo Eficiente 2",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r3": {
+    "title": "Metabolismo Eficiente 3",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+0.18 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r4": {
+    "title": "Metabolismo Eficiente 4",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r5": {
+    "title": "Metabolismo Eficiente 5",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+0.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r6": {
+    "title": "Metabolismo Eficiente 6",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r7": {
+    "title": "Metabolismo Eficiente 7",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+0.42 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r8": {
+    "title": "Metabolismo Eficiente 8",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r9": {
+    "title": "Metabolismo Eficiente 9",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+0.54 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r10": {
+    "title": "Metabolismo Eficiente 10",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r11": {
+    "title": "Metabolismo Eficiente 11",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+0.66 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r12": {
+    "title": "Metabolismo Eficiente 12",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r13": {
+    "title": "Metabolismo Eficiente 13",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+0.78 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r14": {
+    "title": "Metabolismo Eficiente 14",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+0.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r15": {
+    "title": "Metabolismo Eficiente 15",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+0.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r16": {
+    "title": "Metabolismo Eficiente 16",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r17": {
+    "title": "Metabolismo Eficiente 17",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+1.02 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r18": {
+    "title": "Metabolismo Eficiente 18",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+1.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r19": {
+    "title": "Metabolismo Eficiente 19",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+1.14 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r20": {
+    "title": "Metabolismo Eficiente 20",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r21": {
+    "title": "Metabolismo Eficiente 21",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+1.26 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r22": {
+    "title": "Metabolismo Eficiente 22",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+1.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r23": {
+    "title": "Metabolismo Eficiente 23",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+1.38 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r24": {
+    "title": "Metabolismo Eficiente 24",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "nutrition_r25": {
+    "title": "Metabolismo Eficiente 25",
+    "description": "Los alimentos otorgan mejor regeneración y saciedad prolongada. (+1.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:bread"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r1": {
+    "title": "Vigor Campesino 1",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r2": {
+    "title": "Vigor Campesino 2",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+4.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r3": {
+    "title": "Vigor Campesino 3",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r4": {
+    "title": "Vigor Campesino 4",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+8.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r5": {
+    "title": "Vigor Campesino 5",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+10.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r6": {
+    "title": "Vigor Campesino 6",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+12.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r7": {
+    "title": "Vigor Campesino 7",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+14.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r8": {
+    "title": "Vigor Campesino 8",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+16.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r9": {
+    "title": "Vigor Campesino 9",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+18.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r10": {
+    "title": "Vigor Campesino 10",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+20.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r11": {
+    "title": "Vigor Campesino 11",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+22.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r12": {
+    "title": "Vigor Campesino 12",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+24.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r13": {
+    "title": "Vigor Campesino 13",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+26.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r14": {
+    "title": "Vigor Campesino 14",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+28.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r15": {
+    "title": "Vigor Campesino 15",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+30.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r16": {
+    "title": "Vigor Campesino 16",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+32.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r17": {
+    "title": "Vigor Campesino 17",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+34.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r18": {
+    "title": "Vigor Campesino 18",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+36.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r19": {
+    "title": "Vigor Campesino 19",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+38.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r20": {
+    "title": "Vigor Campesino 20",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+40.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r21": {
+    "title": "Vigor Campesino 21",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+42.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r22": {
+    "title": "Vigor Campesino 22",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+44.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r23": {
+    "title": "Vigor Campesino 23",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+46.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r24": {
+    "title": "Vigor Campesino 24",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+48.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stamina_vitality_r25": {
+    "title": "Vigor Campesino 25",
+    "description": "Mayor aguante físico y energía para largas jornadas en el campo. (+50.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:honey_bottle"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stamina",
+          "value": 2.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  }
+}

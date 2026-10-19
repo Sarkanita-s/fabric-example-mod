@@ -1,0 +1,2627 @@
+{
+  "damage_r1": {
+    "title": "Golpe Demoledor 1",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+0.7 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r2": {
+    "title": "Golpe Demoledor 2",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+1.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r3": {
+    "title": "Golpe Demoledor 3",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+2.1 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r4": {
+    "title": "Golpe Demoledor 4",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+2.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r5": {
+    "title": "Golpe Demoledor 5",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+3.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r6": {
+    "title": "Golpe Demoledor 6",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+4.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r7": {
+    "title": "Golpe Demoledor 7",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+4.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r8": {
+    "title": "Golpe Demoledor 8",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+5.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r9": {
+    "title": "Golpe Demoledor 9",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+6.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r10": {
+    "title": "Golpe Demoledor 10",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+7.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r11": {
+    "title": "Golpe Demoledor 11",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+7.7 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r12": {
+    "title": "Golpe Demoledor 12",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+8.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r13": {
+    "title": "Golpe Demoledor 13",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+9.1 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r14": {
+    "title": "Golpe Demoledor 14",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+9.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r15": {
+    "title": "Golpe Demoledor 15",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+10.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r16": {
+    "title": "Golpe Demoledor 16",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+11.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r17": {
+    "title": "Golpe Demoledor 17",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+11.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r18": {
+    "title": "Golpe Demoledor 18",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+12.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r19": {
+    "title": "Golpe Demoledor 19",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+13.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r20": {
+    "title": "Golpe Demoledor 20",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+14.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r21": {
+    "title": "Golpe Demoledor 21",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+14.7 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r22": {
+    "title": "Golpe Demoledor 22",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+15.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r23": {
+    "title": "Golpe Demoledor 23",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+16.1 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r24": {
+    "title": "Golpe Demoledor 24",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+16.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r25": {
+    "title": "Golpe Demoledor 25",
+    "description": "Aumenta enormemente el daño de impacto de las hachas. (+17.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_damage",
+          "value": 0.7,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r1": {
+    "title": "Quebrantahuesos 1",
+    "description": "Destruye y perfora la armadura del objetivo. (+0.06 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r2": {
+    "title": "Quebrantahuesos 2",
+    "description": "Destruye y perfora la armadura del objetivo. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r3": {
+    "title": "Quebrantahuesos 3",
+    "description": "Destruye y perfora la armadura del objetivo. (+0.18 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r4": {
+    "title": "Quebrantahuesos 4",
+    "description": "Destruye y perfora la armadura del objetivo. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r5": {
+    "title": "Quebrantahuesos 5",
+    "description": "Destruye y perfora la armadura del objetivo. (+0.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r6": {
+    "title": "Quebrantahuesos 6",
+    "description": "Destruye y perfora la armadura del objetivo. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r7": {
+    "title": "Quebrantahuesos 7",
+    "description": "Destruye y perfora la armadura del objetivo. (+0.42 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r8": {
+    "title": "Quebrantahuesos 8",
+    "description": "Destruye y perfora la armadura del objetivo. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r9": {
+    "title": "Quebrantahuesos 9",
+    "description": "Destruye y perfora la armadura del objetivo. (+0.54 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r10": {
+    "title": "Quebrantahuesos 10",
+    "description": "Destruye y perfora la armadura del objetivo. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r11": {
+    "title": "Quebrantahuesos 11",
+    "description": "Destruye y perfora la armadura del objetivo. (+0.66 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r12": {
+    "title": "Quebrantahuesos 12",
+    "description": "Destruye y perfora la armadura del objetivo. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r13": {
+    "title": "Quebrantahuesos 13",
+    "description": "Destruye y perfora la armadura del objetivo. (+0.78 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r14": {
+    "title": "Quebrantahuesos 14",
+    "description": "Destruye y perfora la armadura del objetivo. (+0.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r15": {
+    "title": "Quebrantahuesos 15",
+    "description": "Destruye y perfora la armadura del objetivo. (+0.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r16": {
+    "title": "Quebrantahuesos 16",
+    "description": "Destruye y perfora la armadura del objetivo. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r17": {
+    "title": "Quebrantahuesos 17",
+    "description": "Destruye y perfora la armadura del objetivo. (+1.02 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r18": {
+    "title": "Quebrantahuesos 18",
+    "description": "Destruye y perfora la armadura del objetivo. (+1.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r19": {
+    "title": "Quebrantahuesos 19",
+    "description": "Destruye y perfora la armadura del objetivo. (+1.14 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r20": {
+    "title": "Quebrantahuesos 20",
+    "description": "Destruye y perfora la armadura del objetivo. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r21": {
+    "title": "Quebrantahuesos 21",
+    "description": "Destruye y perfora la armadura del objetivo. (+1.26 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r22": {
+    "title": "Quebrantahuesos 22",
+    "description": "Destruye y perfora la armadura del objetivo. (+1.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r23": {
+    "title": "Quebrantahuesos 23",
+    "description": "Destruye y perfora la armadura del objetivo. (+1.38 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r24": {
+    "title": "Quebrantahuesos 24",
+    "description": "Destruye y perfora la armadura del objetivo. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crush_r25": {
+    "title": "Quebrantahuesos 25",
+    "description": "Destruye y perfora la armadura del objetivo. (+1.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:anvil"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r1": {
+    "title": "Impacto Pesado 1",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+0.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r2": {
+    "title": "Impacto Pesado 2",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r3": {
+    "title": "Impacto Pesado 3",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r4": {
+    "title": "Impacto Pesado 4",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r5": {
+    "title": "Impacto Pesado 5",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+1.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r6": {
+    "title": "Impacto Pesado 6",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r7": {
+    "title": "Impacto Pesado 7",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+1.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r8": {
+    "title": "Impacto Pesado 8",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+1.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r9": {
+    "title": "Impacto Pesado 9",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+1.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r10": {
+    "title": "Impacto Pesado 10",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r11": {
+    "title": "Impacto Pesado 11",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+2.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r12": {
+    "title": "Impacto Pesado 12",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+2.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r13": {
+    "title": "Impacto Pesado 13",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+2.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r14": {
+    "title": "Impacto Pesado 14",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+2.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r15": {
+    "title": "Impacto Pesado 15",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+3.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r16": {
+    "title": "Impacto Pesado 16",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+3.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r17": {
+    "title": "Impacto Pesado 17",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+3.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r18": {
+    "title": "Impacto Pesado 18",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+3.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r19": {
+    "title": "Impacto Pesado 19",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+3.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r20": {
+    "title": "Impacto Pesado 20",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+4.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r21": {
+    "title": "Impacto Pesado 21",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+4.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r22": {
+    "title": "Impacto Pesado 22",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+4.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r23": {
+    "title": "Impacto Pesado 23",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+4.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r24": {
+    "title": "Impacto Pesado 24",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+4.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stagger_r25": {
+    "title": "Impacto Pesado 25",
+    "description": "Incrementa el retroceso y fuerza de impacto. (+5.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:heavy_core"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:knockback",
+          "value": 0.2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r1": {
+    "title": "Hendidura 1",
+    "description": "Debilita las defensas generales del objetivo. (+0.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r2": {
+    "title": "Hendidura 2",
+    "description": "Debilita las defensas generales del objetivo. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r3": {
+    "title": "Hendidura 3",
+    "description": "Debilita las defensas generales del objetivo. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r4": {
+    "title": "Hendidura 4",
+    "description": "Debilita las defensas generales del objetivo. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r5": {
+    "title": "Hendidura 5",
+    "description": "Debilita las defensas generales del objetivo. (+0.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r6": {
+    "title": "Hendidura 6",
+    "description": "Debilita las defensas generales del objetivo. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r7": {
+    "title": "Hendidura 7",
+    "description": "Debilita las defensas generales del objetivo. (+0.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r8": {
+    "title": "Hendidura 8",
+    "description": "Debilita las defensas generales del objetivo. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r9": {
+    "title": "Hendidura 9",
+    "description": "Debilita las defensas generales del objetivo. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r10": {
+    "title": "Hendidura 10",
+    "description": "Debilita las defensas generales del objetivo. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r11": {
+    "title": "Hendidura 11",
+    "description": "Debilita las defensas generales del objetivo. (+0.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r12": {
+    "title": "Hendidura 12",
+    "description": "Debilita las defensas generales del objetivo. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r13": {
+    "title": "Hendidura 13",
+    "description": "Debilita las defensas generales del objetivo. (+0.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r14": {
+    "title": "Hendidura 14",
+    "description": "Debilita las defensas generales del objetivo. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r15": {
+    "title": "Hendidura 15",
+    "description": "Debilita las defensas generales del objetivo. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r16": {
+    "title": "Hendidura 16",
+    "description": "Debilita las defensas generales del objetivo. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r17": {
+    "title": "Hendidura 17",
+    "description": "Debilita las defensas generales del objetivo. (+0.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r18": {
+    "title": "Hendidura 18",
+    "description": "Debilita las defensas generales del objetivo. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r19": {
+    "title": "Hendidura 19",
+    "description": "Debilita las defensas generales del objetivo. (+0.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r20": {
+    "title": "Hendidura 20",
+    "description": "Debilita las defensas generales del objetivo. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r21": {
+    "title": "Hendidura 21",
+    "description": "Debilita las defensas generales del objetivo. (+0.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r22": {
+    "title": "Hendidura 22",
+    "description": "Debilita las defensas generales del objetivo. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r23": {
+    "title": "Hendidura 23",
+    "description": "Debilita las defensas generales del objetivo. (+0.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r24": {
+    "title": "Hendidura 24",
+    "description": "Debilita las defensas generales del objetivo. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_shred_r25": {
+    "title": "Hendidura 25",
+    "description": "Debilita las defensas generales del objetivo. (+1.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r1": {
+    "title": "Coloso de Batalla 1",
+    "description": "Daño letal continuo con hachas. (+0.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r2": {
+    "title": "Coloso de Batalla 2",
+    "description": "Daño letal continuo con hachas. (+1.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r3": {
+    "title": "Coloso de Batalla 3",
+    "description": "Daño letal continuo con hachas. (+1.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r4": {
+    "title": "Coloso de Batalla 4",
+    "description": "Daño letal continuo con hachas. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r5": {
+    "title": "Coloso de Batalla 5",
+    "description": "Daño letal continuo con hachas. (+2.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r6": {
+    "title": "Coloso de Batalla 6",
+    "description": "Daño letal continuo con hachas. (+3.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r7": {
+    "title": "Coloso de Batalla 7",
+    "description": "Daño letal continuo con hachas. (+3.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r8": {
+    "title": "Coloso de Batalla 8",
+    "description": "Daño letal continuo con hachas. (+4.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r9": {
+    "title": "Coloso de Batalla 9",
+    "description": "Daño letal continuo con hachas. (+4.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r10": {
+    "title": "Coloso de Batalla 10",
+    "description": "Daño letal continuo con hachas. (+5.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r11": {
+    "title": "Coloso de Batalla 11",
+    "description": "Daño letal continuo con hachas. (+5.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r12": {
+    "title": "Coloso de Batalla 12",
+    "description": "Daño letal continuo con hachas. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r13": {
+    "title": "Coloso de Batalla 13",
+    "description": "Daño letal continuo con hachas. (+6.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r14": {
+    "title": "Coloso de Batalla 14",
+    "description": "Daño letal continuo con hachas. (+7.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r15": {
+    "title": "Coloso de Batalla 15",
+    "description": "Daño letal continuo con hachas. (+7.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r16": {
+    "title": "Coloso de Batalla 16",
+    "description": "Daño letal continuo con hachas. (+8.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r17": {
+    "title": "Coloso de Batalla 17",
+    "description": "Daño letal continuo con hachas. (+8.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r18": {
+    "title": "Coloso de Batalla 18",
+    "description": "Daño letal continuo con hachas. (+9.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r19": {
+    "title": "Coloso de Batalla 19",
+    "description": "Daño letal continuo con hachas. (+9.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r20": {
+    "title": "Coloso de Batalla 20",
+    "description": "Daño letal continuo con hachas. (+10.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r21": {
+    "title": "Coloso de Batalla 21",
+    "description": "Daño letal continuo con hachas. (+10.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r22": {
+    "title": "Coloso de Batalla 22",
+    "description": "Daño letal continuo con hachas. (+11.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r23": {
+    "title": "Coloso de Batalla 23",
+    "description": "Daño letal continuo con hachas. (+11.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r24": {
+    "title": "Coloso de Batalla 24",
+    "description": "Daño letal continuo con hachas. (+12.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "cleave_r25": {
+    "title": "Coloso de Batalla 25",
+    "description": "Daño letal continuo con hachas. (+12.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:dragon_head"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  }
+}

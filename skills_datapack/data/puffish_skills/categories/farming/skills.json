@@ -1,0 +1,632 @@
+{
+  "s_crop_yield_1": {
+    "x": 0,
+    "y": -36,
+    "definition": "crop_yield_r1",
+    "root": true
+  },
+  "s_crop_yield_2": {
+    "x": 0,
+    "y": -72,
+    "definition": "crop_yield_r2"
+  },
+  "s_crop_yield_3": {
+    "x": 0,
+    "y": -108,
+    "definition": "crop_yield_r3"
+  },
+  "s_crop_yield_4": {
+    "x": 0,
+    "y": -144,
+    "definition": "crop_yield_r4"
+  },
+  "s_crop_yield_5": {
+    "x": 0,
+    "y": -180,
+    "definition": "crop_yield_r5"
+  },
+  "s_crop_yield_6": {
+    "x": 0,
+    "y": -216,
+    "definition": "crop_yield_r6"
+  },
+  "s_crop_yield_7": {
+    "x": 0,
+    "y": -252,
+    "definition": "crop_yield_r7"
+  },
+  "s_crop_yield_8": {
+    "x": 0,
+    "y": -288,
+    "definition": "crop_yield_r8"
+  },
+  "s_crop_yield_9": {
+    "x": 0,
+    "y": -324,
+    "definition": "crop_yield_r9"
+  },
+  "s_crop_yield_10": {
+    "x": 0,
+    "y": -360,
+    "definition": "crop_yield_r10"
+  },
+  "s_crop_yield_11": {
+    "x": 0,
+    "y": -396,
+    "definition": "crop_yield_r11"
+  },
+  "s_crop_yield_12": {
+    "x": 0,
+    "y": -432,
+    "definition": "crop_yield_r12"
+  },
+  "s_crop_yield_13": {
+    "x": 0,
+    "y": -468,
+    "definition": "crop_yield_r13"
+  },
+  "s_crop_yield_14": {
+    "x": 0,
+    "y": -504,
+    "definition": "crop_yield_r14"
+  },
+  "s_crop_yield_15": {
+    "x": 0,
+    "y": -540,
+    "definition": "crop_yield_r15"
+  },
+  "s_crop_yield_16": {
+    "x": 0,
+    "y": -576,
+    "definition": "crop_yield_r16"
+  },
+  "s_crop_yield_17": {
+    "x": 0,
+    "y": -612,
+    "definition": "crop_yield_r17"
+  },
+  "s_crop_yield_18": {
+    "x": 0,
+    "y": -648,
+    "definition": "crop_yield_r18"
+  },
+  "s_crop_yield_19": {
+    "x": 0,
+    "y": -684,
+    "definition": "crop_yield_r19"
+  },
+  "s_crop_yield_20": {
+    "x": 0,
+    "y": -720,
+    "definition": "crop_yield_r20"
+  },
+  "s_crop_yield_21": {
+    "x": 0,
+    "y": -756,
+    "definition": "crop_yield_r21"
+  },
+  "s_crop_yield_22": {
+    "x": 0,
+    "y": -792,
+    "definition": "crop_yield_r22"
+  },
+  "s_crop_yield_23": {
+    "x": 0,
+    "y": -828,
+    "definition": "crop_yield_r23"
+  },
+  "s_crop_yield_24": {
+    "x": 0,
+    "y": -864,
+    "definition": "crop_yield_r24"
+  },
+  "s_crop_yield_25": {
+    "x": 0,
+    "y": -900,
+    "definition": "crop_yield_r25"
+  },
+  "s_rare_harvest_1": {
+    "x": 36,
+    "y": 0,
+    "definition": "rare_harvest_r1",
+    "root": true
+  },
+  "s_rare_harvest_2": {
+    "x": 72,
+    "y": 0,
+    "definition": "rare_harvest_r2"
+  },
+  "s_rare_harvest_3": {
+    "x": 108,
+    "y": 0,
+    "definition": "rare_harvest_r3"
+  },
+  "s_rare_harvest_4": {
+    "x": 144,
+    "y": 0,
+    "definition": "rare_harvest_r4"
+  },
+  "s_rare_harvest_5": {
+    "x": 180,
+    "y": 0,
+    "definition": "rare_harvest_r5"
+  },
+  "s_rare_harvest_6": {
+    "x": 216,
+    "y": 0,
+    "definition": "rare_harvest_r6"
+  },
+  "s_rare_harvest_7": {
+    "x": 252,
+    "y": 0,
+    "definition": "rare_harvest_r7"
+  },
+  "s_rare_harvest_8": {
+    "x": 288,
+    "y": 0,
+    "definition": "rare_harvest_r8"
+  },
+  "s_rare_harvest_9": {
+    "x": 324,
+    "y": 0,
+    "definition": "rare_harvest_r9"
+  },
+  "s_rare_harvest_10": {
+    "x": 360,
+    "y": 0,
+    "definition": "rare_harvest_r10"
+  },
+  "s_rare_harvest_11": {
+    "x": 396,
+    "y": 0,
+    "definition": "rare_harvest_r11"
+  },
+  "s_rare_harvest_12": {
+    "x": 432,
+    "y": 0,
+    "definition": "rare_harvest_r12"
+  },
+  "s_rare_harvest_13": {
+    "x": 468,
+    "y": 0,
+    "definition": "rare_harvest_r13"
+  },
+  "s_rare_harvest_14": {
+    "x": 504,
+    "y": 0,
+    "definition": "rare_harvest_r14"
+  },
+  "s_rare_harvest_15": {
+    "x": 540,
+    "y": 0,
+    "definition": "rare_harvest_r15"
+  },
+  "s_rare_harvest_16": {
+    "x": 576,
+    "y": 0,
+    "definition": "rare_harvest_r16"
+  },
+  "s_rare_harvest_17": {
+    "x": 612,
+    "y": 0,
+    "definition": "rare_harvest_r17"
+  },
+  "s_rare_harvest_18": {
+    "x": 648,
+    "y": 0,
+    "definition": "rare_harvest_r18"
+  },
+  "s_rare_harvest_19": {
+    "x": 684,
+    "y": 0,
+    "definition": "rare_harvest_r19"
+  },
+  "s_rare_harvest_20": {
+    "x": 720,
+    "y": 0,
+    "definition": "rare_harvest_r20"
+  },
+  "s_rare_harvest_21": {
+    "x": 756,
+    "y": 0,
+    "definition": "rare_harvest_r21"
+  },
+  "s_rare_harvest_22": {
+    "x": 792,
+    "y": 0,
+    "definition": "rare_harvest_r22"
+  },
+  "s_rare_harvest_23": {
+    "x": 828,
+    "y": 0,
+    "definition": "rare_harvest_r23"
+  },
+  "s_rare_harvest_24": {
+    "x": 864,
+    "y": 0,
+    "definition": "rare_harvest_r24"
+  },
+  "s_rare_harvest_25": {
+    "x": 900,
+    "y": 0,
+    "definition": "rare_harvest_r25"
+  },
+  "s_eat_speed_1": {
+    "x": 0,
+    "y": 36,
+    "definition": "eat_speed_r1",
+    "root": true
+  },
+  "s_eat_speed_2": {
+    "x": 0,
+    "y": 72,
+    "definition": "eat_speed_r2"
+  },
+  "s_eat_speed_3": {
+    "x": 0,
+    "y": 108,
+    "definition": "eat_speed_r3"
+  },
+  "s_eat_speed_4": {
+    "x": 0,
+    "y": 144,
+    "definition": "eat_speed_r4"
+  },
+  "s_eat_speed_5": {
+    "x": 0,
+    "y": 180,
+    "definition": "eat_speed_r5"
+  },
+  "s_eat_speed_6": {
+    "x": 0,
+    "y": 216,
+    "definition": "eat_speed_r6"
+  },
+  "s_eat_speed_7": {
+    "x": 0,
+    "y": 252,
+    "definition": "eat_speed_r7"
+  },
+  "s_eat_speed_8": {
+    "x": 0,
+    "y": 288,
+    "definition": "eat_speed_r8"
+  },
+  "s_eat_speed_9": {
+    "x": 0,
+    "y": 324,
+    "definition": "eat_speed_r9"
+  },
+  "s_eat_speed_10": {
+    "x": 0,
+    "y": 360,
+    "definition": "eat_speed_r10"
+  },
+  "s_eat_speed_11": {
+    "x": 0,
+    "y": 396,
+    "definition": "eat_speed_r11"
+  },
+  "s_eat_speed_12": {
+    "x": 0,
+    "y": 432,
+    "definition": "eat_speed_r12"
+  },
+  "s_eat_speed_13": {
+    "x": 0,
+    "y": 468,
+    "definition": "eat_speed_r13"
+  },
+  "s_eat_speed_14": {
+    "x": 0,
+    "y": 504,
+    "definition": "eat_speed_r14"
+  },
+  "s_eat_speed_15": {
+    "x": 0,
+    "y": 540,
+    "definition": "eat_speed_r15"
+  },
+  "s_eat_speed_16": {
+    "x": 0,
+    "y": 576,
+    "definition": "eat_speed_r16"
+  },
+  "s_eat_speed_17": {
+    "x": 0,
+    "y": 612,
+    "definition": "eat_speed_r17"
+  },
+  "s_eat_speed_18": {
+    "x": 0,
+    "y": 648,
+    "definition": "eat_speed_r18"
+  },
+  "s_eat_speed_19": {
+    "x": 0,
+    "y": 684,
+    "definition": "eat_speed_r19"
+  },
+  "s_eat_speed_20": {
+    "x": 0,
+    "y": 720,
+    "definition": "eat_speed_r20"
+  },
+  "s_eat_speed_21": {
+    "x": 0,
+    "y": 756,
+    "definition": "eat_speed_r21"
+  },
+  "s_eat_speed_22": {
+    "x": 0,
+    "y": 792,
+    "definition": "eat_speed_r22"
+  },
+  "s_eat_speed_23": {
+    "x": 0,
+    "y": 828,
+    "definition": "eat_speed_r23"
+  },
+  "s_eat_speed_24": {
+    "x": 0,
+    "y": 864,
+    "definition": "eat_speed_r24"
+  },
+  "s_eat_speed_25": {
+    "x": 0,
+    "y": 900,
+    "definition": "eat_speed_r25"
+  },
+  "s_nutrition_1": {
+    "x": -36,
+    "y": 0,
+    "definition": "nutrition_r1",
+    "root": true
+  },
+  "s_nutrition_2": {
+    "x": -72,
+    "y": 0,
+    "definition": "nutrition_r2"
+  },
+  "s_nutrition_3": {
+    "x": -108,
+    "y": 0,
+    "definition": "nutrition_r3"
+  },
+  "s_nutrition_4": {
+    "x": -144,
+    "y": 0,
+    "definition": "nutrition_r4"
+  },
+  "s_nutrition_5": {
+    "x": -180,
+    "y": 0,
+    "definition": "nutrition_r5"
+  },
+  "s_nutrition_6": {
+    "x": -216,
+    "y": 0,
+    "definition": "nutrition_r6"
+  },
+  "s_nutrition_7": {
+    "x": -252,
+    "y": 0,
+    "definition": "nutrition_r7"
+  },
+  "s_nutrition_8": {
+    "x": -288,
+    "y": 0,
+    "definition": "nutrition_r8"
+  },
+  "s_nutrition_9": {
+    "x": -324,
+    "y": 0,
+    "definition": "nutrition_r9"
+  },
+  "s_nutrition_10": {
+    "x": -360,
+    "y": 0,
+    "definition": "nutrition_r10"
+  },
+  "s_nutrition_11": {
+    "x": -396,
+    "y": 0,
+    "definition": "nutrition_r11"
+  },
+  "s_nutrition_12": {
+    "x": -432,
+    "y": 0,
+    "definition": "nutrition_r12"
+  },
+  "s_nutrition_13": {
+    "x": -468,
+    "y": 0,
+    "definition": "nutrition_r13"
+  },
+  "s_nutrition_14": {
+    "x": -504,
+    "y": 0,
+    "definition": "nutrition_r14"
+  },
+  "s_nutrition_15": {
+    "x": -540,
+    "y": 0,
+    "definition": "nutrition_r15"
+  },
+  "s_nutrition_16": {
+    "x": -576,
+    "y": 0,
+    "definition": "nutrition_r16"
+  },
+  "s_nutrition_17": {
+    "x": -612,
+    "y": 0,
+    "definition": "nutrition_r17"
+  },
+  "s_nutrition_18": {
+    "x": -648,
+    "y": 0,
+    "definition": "nutrition_r18"
+  },
+  "s_nutrition_19": {
+    "x": -684,
+    "y": 0,
+    "definition": "nutrition_r19"
+  },
+  "s_nutrition_20": {
+    "x": -720,
+    "y": 0,
+    "definition": "nutrition_r20"
+  },
+  "s_nutrition_21": {
+    "x": -756,
+    "y": 0,
+    "definition": "nutrition_r21"
+  },
+  "s_nutrition_22": {
+    "x": -792,
+    "y": 0,
+    "definition": "nutrition_r22"
+  },
+  "s_nutrition_23": {
+    "x": -828,
+    "y": 0,
+    "definition": "nutrition_r23"
+  },
+  "s_nutrition_24": {
+    "x": -864,
+    "y": 0,
+    "definition": "nutrition_r24"
+  },
+  "s_nutrition_25": {
+    "x": -900,
+    "y": 0,
+    "definition": "nutrition_r25"
+  },
+  "s_stamina_vitality_1": {
+    "x": 26,
+    "y": -26,
+    "definition": "stamina_vitality_r1",
+    "root": true
+  },
+  "s_stamina_vitality_2": {
+    "x": 52,
+    "y": -52,
+    "definition": "stamina_vitality_r2"
+  },
+  "s_stamina_vitality_3": {
+    "x": 78,
+    "y": -78,
+    "definition": "stamina_vitality_r3"
+  },
+  "s_stamina_vitality_4": {
+    "x": 104,
+    "y": -104,
+    "definition": "stamina_vitality_r4"
+  },
+  "s_stamina_vitality_5": {
+    "x": 130,
+    "y": -130,
+    "definition": "stamina_vitality_r5"
+  },
+  "s_stamina_vitality_6": {
+    "x": 156,
+    "y": -156,
+    "definition": "stamina_vitality_r6"
+  },
+  "s_stamina_vitality_7": {
+    "x": 182,
+    "y": -182,
+    "definition": "stamina_vitality_r7"
+  },
+  "s_stamina_vitality_8": {
+    "x": 208,
+    "y": -208,
+    "definition": "stamina_vitality_r8"
+  },
+  "s_stamina_vitality_9": {
+    "x": 234,
+    "y": -234,
+    "definition": "stamina_vitality_r9"
+  },
+  "s_stamina_vitality_10": {
+    "x": 260,
+    "y": -260,
+    "definition": "stamina_vitality_r10"
+  },
+  "s_stamina_vitality_11": {
+    "x": 286,
+    "y": -286,
+    "definition": "stamina_vitality_r11"
+  },
+  "s_stamina_vitality_12": {
+    "x": 312,
+    "y": -312,
+    "definition": "stamina_vitality_r12"
+  },
+  "s_stamina_vitality_13": {
+    "x": 338,
+    "y": -338,
+    "definition": "stamina_vitality_r13"
+  },
+  "s_stamina_vitality_14": {
+    "x": 364,
+    "y": -364,
+    "definition": "stamina_vitality_r14"
+  },
+  "s_stamina_vitality_15": {
+    "x": 390,
+    "y": -390,
+    "definition": "stamina_vitality_r15"
+  },
+  "s_stamina_vitality_16": {
+    "x": 416,
+    "y": -416,
+    "definition": "stamina_vitality_r16"
+  },
+  "s_stamina_vitality_17": {
+    "x": 442,
+    "y": -442,
+    "definition": "stamina_vitality_r17"
+  },
+  "s_stamina_vitality_18": {
+    "x": 468,
+    "y": -468,
+    "definition": "stamina_vitality_r18"
+  },
+  "s_stamina_vitality_19": {
+    "x": 494,
+    "y": -494,
+    "definition": "stamina_vitality_r19"
+  },
+  "s_stamina_vitality_20": {
+    "x": 520,
+    "y": -520,
+    "definition": "stamina_vitality_r20"
+  },
+  "s_stamina_vitality_21": {
+    "x": 546,
+    "y": -546,
+    "definition": "stamina_vitality_r21"
+  },
+  "s_stamina_vitality_22": {
+    "x": 572,
+    "y": -572,
+    "definition": "stamina_vitality_r22"
+  },
+  "s_stamina_vitality_23": {
+    "x": 598,
+    "y": -598,
+    "definition": "stamina_vitality_r23"
+  },
+  "s_stamina_vitality_24": {
+    "x": 624,
+    "y": -624,
+    "definition": "stamina_vitality_r24"
+  },
+  "s_stamina_vitality_25": {
+    "x": 650,
+    "y": -650,
+    "definition": "stamina_vitality_r25"
+  }
+}

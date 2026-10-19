@@ -1,0 +1,12 @@
+{
+  "unlocked_by_default": true,
+  "exclusive_root": false,
+  "title": "Cosecha Fértil (Agricultura)",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "minecraft:golden_carrot"
+    }
+  },
+  "background": "textures/block/farmland.png"
+}

@@ -1,0 +1,2627 @@
+{
+  "pick_speed_r1": {
+    "title": "Pico Veloz 1",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r2": {
+    "title": "Pico Veloz 2",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r3": {
+    "title": "Pico Veloz 3",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r4": {
+    "title": "Pico Veloz 4",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+1.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r5": {
+    "title": "Pico Veloz 5",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r6": {
+    "title": "Pico Veloz 6",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+2.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r7": {
+    "title": "Pico Veloz 7",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+2.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r8": {
+    "title": "Pico Veloz 8",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+3.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r9": {
+    "title": "Pico Veloz 9",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+3.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r10": {
+    "title": "Pico Veloz 10",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+4.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r11": {
+    "title": "Pico Veloz 11",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+4.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r12": {
+    "title": "Pico Veloz 12",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+4.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r13": {
+    "title": "Pico Veloz 13",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+5.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r14": {
+    "title": "Pico Veloz 14",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+5.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r15": {
+    "title": "Pico Veloz 15",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r16": {
+    "title": "Pico Veloz 16",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+6.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r17": {
+    "title": "Pico Veloz 17",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+6.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r18": {
+    "title": "Pico Veloz 18",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+7.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r19": {
+    "title": "Pico Veloz 19",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+7.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r20": {
+    "title": "Pico Veloz 20",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+8.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r21": {
+    "title": "Pico Veloz 21",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+8.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r22": {
+    "title": "Pico Veloz 22",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+8.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r23": {
+    "title": "Pico Veloz 23",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+9.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r24": {
+    "title": "Pico Veloz 24",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+9.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "pick_speed_r25": {
+    "title": "Pico Veloz 25",
+    "description": "Aumenta la velocidad al picar con cualquier pico. (+10.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r1": {
+    "title": "Eficiencia Geológica 1",
+    "description": "Acelera el quiebre de bloques rocosos. (+0.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r2": {
+    "title": "Eficiencia Geológica 2",
+    "description": "Acelera el quiebre de bloques rocosos. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r3": {
+    "title": "Eficiencia Geológica 3",
+    "description": "Acelera el quiebre de bloques rocosos. (+0.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r4": {
+    "title": "Eficiencia Geológica 4",
+    "description": "Acelera el quiebre de bloques rocosos. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r5": {
+    "title": "Eficiencia Geológica 5",
+    "description": "Acelera el quiebre de bloques rocosos. (+1.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r6": {
+    "title": "Eficiencia Geológica 6",
+    "description": "Acelera el quiebre de bloques rocosos. (+1.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r7": {
+    "title": "Eficiencia Geológica 7",
+    "description": "Acelera el quiebre de bloques rocosos. (+2.1 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r8": {
+    "title": "Eficiencia Geológica 8",
+    "description": "Acelera el quiebre de bloques rocosos. (+2.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r9": {
+    "title": "Eficiencia Geológica 9",
+    "description": "Acelera el quiebre de bloques rocosos. (+2.7 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r10": {
+    "title": "Eficiencia Geológica 10",
+    "description": "Acelera el quiebre de bloques rocosos. (+3.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r11": {
+    "title": "Eficiencia Geológica 11",
+    "description": "Acelera el quiebre de bloques rocosos. (+3.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r12": {
+    "title": "Eficiencia Geológica 12",
+    "description": "Acelera el quiebre de bloques rocosos. (+3.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r13": {
+    "title": "Eficiencia Geológica 13",
+    "description": "Acelera el quiebre de bloques rocosos. (+3.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r14": {
+    "title": "Eficiencia Geológica 14",
+    "description": "Acelera el quiebre de bloques rocosos. (+4.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r15": {
+    "title": "Eficiencia Geológica 15",
+    "description": "Acelera el quiebre de bloques rocosos. (+4.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r16": {
+    "title": "Eficiencia Geológica 16",
+    "description": "Acelera el quiebre de bloques rocosos. (+4.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r17": {
+    "title": "Eficiencia Geológica 17",
+    "description": "Acelera el quiebre de bloques rocosos. (+5.1 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r18": {
+    "title": "Eficiencia Geológica 18",
+    "description": "Acelera el quiebre de bloques rocosos. (+5.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r19": {
+    "title": "Eficiencia Geológica 19",
+    "description": "Acelera el quiebre de bloques rocosos. (+5.7 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r20": {
+    "title": "Eficiencia Geológica 20",
+    "description": "Acelera el quiebre de bloques rocosos. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r21": {
+    "title": "Eficiencia Geológica 21",
+    "description": "Acelera el quiebre de bloques rocosos. (+6.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r22": {
+    "title": "Eficiencia Geológica 22",
+    "description": "Acelera el quiebre de bloques rocosos. (+6.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r23": {
+    "title": "Eficiencia Geológica 23",
+    "description": "Acelera el quiebre de bloques rocosos. (+6.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r24": {
+    "title": "Eficiencia Geológica 24",
+    "description": "Acelera el quiebre de bloques rocosos. (+7.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "break_speed_r25": {
+    "title": "Eficiencia Geológica 25",
+    "description": "Acelera el quiebre de bloques rocosos. (+7.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r1": {
+    "title": "Ojo Minero 1",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r2": {
+    "title": "Ojo Minero 2",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r3": {
+    "title": "Ojo Minero 3",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r4": {
+    "title": "Ojo Minero 4",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r5": {
+    "title": "Ojo Minero 5",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r6": {
+    "title": "Ojo Minero 6",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r7": {
+    "title": "Ojo Minero 7",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r8": {
+    "title": "Ojo Minero 8",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r9": {
+    "title": "Ojo Minero 9",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r10": {
+    "title": "Ojo Minero 10",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r11": {
+    "title": "Ojo Minero 11",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r12": {
+    "title": "Ojo Minero 12",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r13": {
+    "title": "Ojo Minero 13",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+1.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r14": {
+    "title": "Ojo Minero 14",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+1.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r15": {
+    "title": "Ojo Minero 15",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r16": {
+    "title": "Ojo Minero 16",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+1.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r17": {
+    "title": "Ojo Minero 17",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+1.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r18": {
+    "title": "Ojo Minero 18",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r19": {
+    "title": "Ojo Minero 19",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+1.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r20": {
+    "title": "Ojo Minero 20",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+1.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r21": {
+    "title": "Ojo Minero 21",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+1.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r22": {
+    "title": "Ojo Minero 22",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+1.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r23": {
+    "title": "Ojo Minero 23",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+1.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r24": {
+    "title": "Ojo Minero 24",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+1.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fortune_r25": {
+    "title": "Ojo Minero 25",
+    "description": "Mejora la probabilidad de obtener más minerales por mena. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_iron"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r1": {
+    "title": "Maestro del Subsuelo 1",
+    "description": "Destrucción instantánea de materiales profundos. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r2": {
+    "title": "Maestro del Subsuelo 2",
+    "description": "Destrucción instantánea de materiales profundos. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r3": {
+    "title": "Maestro del Subsuelo 3",
+    "description": "Destrucción instantánea de materiales profundos. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r4": {
+    "title": "Maestro del Subsuelo 4",
+    "description": "Destrucción instantánea de materiales profundos. (+1.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r5": {
+    "title": "Maestro del Subsuelo 5",
+    "description": "Destrucción instantánea de materiales profundos. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r6": {
+    "title": "Maestro del Subsuelo 6",
+    "description": "Destrucción instantánea de materiales profundos. (+2.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r7": {
+    "title": "Maestro del Subsuelo 7",
+    "description": "Destrucción instantánea de materiales profundos. (+2.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r8": {
+    "title": "Maestro del Subsuelo 8",
+    "description": "Destrucción instantánea de materiales profundos. (+3.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r9": {
+    "title": "Maestro del Subsuelo 9",
+    "description": "Destrucción instantánea de materiales profundos. (+3.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r10": {
+    "title": "Maestro del Subsuelo 10",
+    "description": "Destrucción instantánea de materiales profundos. (+4.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r11": {
+    "title": "Maestro del Subsuelo 11",
+    "description": "Destrucción instantánea de materiales profundos. (+4.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r12": {
+    "title": "Maestro del Subsuelo 12",
+    "description": "Destrucción instantánea de materiales profundos. (+4.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r13": {
+    "title": "Maestro del Subsuelo 13",
+    "description": "Destrucción instantánea de materiales profundos. (+5.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r14": {
+    "title": "Maestro del Subsuelo 14",
+    "description": "Destrucción instantánea de materiales profundos. (+5.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r15": {
+    "title": "Maestro del Subsuelo 15",
+    "description": "Destrucción instantánea de materiales profundos. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r16": {
+    "title": "Maestro del Subsuelo 16",
+    "description": "Destrucción instantánea de materiales profundos. (+6.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r17": {
+    "title": "Maestro del Subsuelo 17",
+    "description": "Destrucción instantánea de materiales profundos. (+6.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r18": {
+    "title": "Maestro del Subsuelo 18",
+    "description": "Destrucción instantánea de materiales profundos. (+7.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r19": {
+    "title": "Maestro del Subsuelo 19",
+    "description": "Destrucción instantánea de materiales profundos. (+7.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r20": {
+    "title": "Maestro del Subsuelo 20",
+    "description": "Destrucción instantánea de materiales profundos. (+8.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r21": {
+    "title": "Maestro del Subsuelo 21",
+    "description": "Destrucción instantánea de materiales profundos. (+8.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r22": {
+    "title": "Maestro del Subsuelo 22",
+    "description": "Destrucción instantánea de materiales profundos. (+8.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r23": {
+    "title": "Maestro del Subsuelo 23",
+    "description": "Destrucción instantánea de materiales profundos. (+9.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r24": {
+    "title": "Maestro del Subsuelo 24",
+    "description": "Destrucción instantánea de materiales profundos. (+9.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "toughness_r25": {
+    "title": "Maestro del Subsuelo 25",
+    "description": "Destrucción instantánea de materiales profundos. (+10.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_pickaxe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r1": {
+    "title": "Fiebre del Oro 1",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r2": {
+    "title": "Fiebre del Oro 2",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r3": {
+    "title": "Fiebre del Oro 3",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r4": {
+    "title": "Fiebre del Oro 4",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r5": {
+    "title": "Fiebre del Oro 5",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r6": {
+    "title": "Fiebre del Oro 6",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r7": {
+    "title": "Fiebre del Oro 7",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+0.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r8": {
+    "title": "Fiebre del Oro 8",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r9": {
+    "title": "Fiebre del Oro 9",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+1.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r10": {
+    "title": "Fiebre del Oro 10",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r11": {
+    "title": "Fiebre del Oro 11",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+1.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r12": {
+    "title": "Fiebre del Oro 12",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r13": {
+    "title": "Fiebre del Oro 13",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+1.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r14": {
+    "title": "Fiebre del Oro 14",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+1.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r15": {
+    "title": "Fiebre del Oro 15",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+1.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r16": {
+    "title": "Fiebre del Oro 16",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+1.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r17": {
+    "title": "Fiebre del Oro 17",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+2.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r18": {
+    "title": "Fiebre del Oro 18",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+2.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r19": {
+    "title": "Fiebre del Oro 19",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+2.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r20": {
+    "title": "Fiebre del Oro 20",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+2.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r21": {
+    "title": "Fiebre del Oro 21",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+2.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r22": {
+    "title": "Fiebre del Oro 22",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+2.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r23": {
+    "title": "Fiebre del Oro 23",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+2.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r24": {
+    "title": "Fiebre del Oro 24",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+2.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "deep_delver_r25": {
+    "title": "Fiebre del Oro 25",
+    "description": "Bonificación máxima al extraer piedras preciosas. (+3.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:raw_gold"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.12,
+          "operation": "addition"
+        }
+      }
+    ]
+  }
+}

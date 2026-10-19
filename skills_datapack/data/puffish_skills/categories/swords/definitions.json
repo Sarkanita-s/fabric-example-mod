@@ -1,0 +1,2627 @@
+{
+  "damage_r1": {
+    "title": "Filo Agudo 1",
+    "description": "Aumenta el daño infligido con espadas. (+0.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r2": {
+    "title": "Filo Agudo 2",
+    "description": "Aumenta el daño infligido con espadas. (+1.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r3": {
+    "title": "Filo Agudo 3",
+    "description": "Aumenta el daño infligido con espadas. (+1.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r4": {
+    "title": "Filo Agudo 4",
+    "description": "Aumenta el daño infligido con espadas. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r5": {
+    "title": "Filo Agudo 5",
+    "description": "Aumenta el daño infligido con espadas. (+2.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r6": {
+    "title": "Filo Agudo 6",
+    "description": "Aumenta el daño infligido con espadas. (+3.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r7": {
+    "title": "Filo Agudo 7",
+    "description": "Aumenta el daño infligido con espadas. (+3.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r8": {
+    "title": "Filo Agudo 8",
+    "description": "Aumenta el daño infligido con espadas. (+4.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r9": {
+    "title": "Filo Agudo 9",
+    "description": "Aumenta el daño infligido con espadas. (+4.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r10": {
+    "title": "Filo Agudo 10",
+    "description": "Aumenta el daño infligido con espadas. (+5.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r11": {
+    "title": "Filo Agudo 11",
+    "description": "Aumenta el daño infligido con espadas. (+5.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r12": {
+    "title": "Filo Agudo 12",
+    "description": "Aumenta el daño infligido con espadas. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r13": {
+    "title": "Filo Agudo 13",
+    "description": "Aumenta el daño infligido con espadas. (+6.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r14": {
+    "title": "Filo Agudo 14",
+    "description": "Aumenta el daño infligido con espadas. (+7.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r15": {
+    "title": "Filo Agudo 15",
+    "description": "Aumenta el daño infligido con espadas. (+7.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r16": {
+    "title": "Filo Agudo 16",
+    "description": "Aumenta el daño infligido con espadas. (+8.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r17": {
+    "title": "Filo Agudo 17",
+    "description": "Aumenta el daño infligido con espadas. (+8.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r18": {
+    "title": "Filo Agudo 18",
+    "description": "Aumenta el daño infligido con espadas. (+9.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r19": {
+    "title": "Filo Agudo 19",
+    "description": "Aumenta el daño infligido con espadas. (+9.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r20": {
+    "title": "Filo Agudo 20",
+    "description": "Aumenta el daño infligido con espadas. (+10.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r21": {
+    "title": "Filo Agudo 21",
+    "description": "Aumenta el daño infligido con espadas. (+10.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r22": {
+    "title": "Filo Agudo 22",
+    "description": "Aumenta el daño infligido con espadas. (+11.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r23": {
+    "title": "Filo Agudo 23",
+    "description": "Aumenta el daño infligido con espadas. (+11.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r24": {
+    "title": "Filo Agudo 24",
+    "description": "Aumenta el daño infligido con espadas. (+12.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r25": {
+    "title": "Filo Agudo 25",
+    "description": "Aumenta el daño infligido con espadas. (+12.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sword_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r1": {
+    "title": "Barrido Mortal 1",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r2": {
+    "title": "Barrido Mortal 2",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r3": {
+    "title": "Barrido Mortal 3",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r4": {
+    "title": "Barrido Mortal 4",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+1.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r5": {
+    "title": "Barrido Mortal 5",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r6": {
+    "title": "Barrido Mortal 6",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+2.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r7": {
+    "title": "Barrido Mortal 7",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+2.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r8": {
+    "title": "Barrido Mortal 8",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+3.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r9": {
+    "title": "Barrido Mortal 9",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+3.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r10": {
+    "title": "Barrido Mortal 10",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+4.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r11": {
+    "title": "Barrido Mortal 11",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+4.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r12": {
+    "title": "Barrido Mortal 12",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+4.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r13": {
+    "title": "Barrido Mortal 13",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+5.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r14": {
+    "title": "Barrido Mortal 14",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+5.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r15": {
+    "title": "Barrido Mortal 15",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r16": {
+    "title": "Barrido Mortal 16",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+6.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r17": {
+    "title": "Barrido Mortal 17",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+6.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r18": {
+    "title": "Barrido Mortal 18",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+7.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r19": {
+    "title": "Barrido Mortal 19",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+7.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r20": {
+    "title": "Barrido Mortal 20",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+8.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r21": {
+    "title": "Barrido Mortal 21",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+8.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r22": {
+    "title": "Barrido Mortal 22",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+8.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r23": {
+    "title": "Barrido Mortal 23",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+9.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r24": {
+    "title": "Barrido Mortal 24",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+9.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sweeping_r25": {
+    "title": "Barrido Mortal 25",
+    "description": "Potencia el impacto en combate cuerpo a cuerpo. (+10.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 0.4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r1": {
+    "title": "Filo Penetrante 1",
+    "description": "Ignora parte de la armadura enemiga. (+0.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r2": {
+    "title": "Filo Penetrante 2",
+    "description": "Ignora parte de la armadura enemiga. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r3": {
+    "title": "Filo Penetrante 3",
+    "description": "Ignora parte de la armadura enemiga. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r4": {
+    "title": "Filo Penetrante 4",
+    "description": "Ignora parte de la armadura enemiga. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r5": {
+    "title": "Filo Penetrante 5",
+    "description": "Ignora parte de la armadura enemiga. (+0.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r6": {
+    "title": "Filo Penetrante 6",
+    "description": "Ignora parte de la armadura enemiga. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r7": {
+    "title": "Filo Penetrante 7",
+    "description": "Ignora parte de la armadura enemiga. (+0.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r8": {
+    "title": "Filo Penetrante 8",
+    "description": "Ignora parte de la armadura enemiga. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r9": {
+    "title": "Filo Penetrante 9",
+    "description": "Ignora parte de la armadura enemiga. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r10": {
+    "title": "Filo Penetrante 10",
+    "description": "Ignora parte de la armadura enemiga. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r11": {
+    "title": "Filo Penetrante 11",
+    "description": "Ignora parte de la armadura enemiga. (+0.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r12": {
+    "title": "Filo Penetrante 12",
+    "description": "Ignora parte de la armadura enemiga. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r13": {
+    "title": "Filo Penetrante 13",
+    "description": "Ignora parte de la armadura enemiga. (+0.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r14": {
+    "title": "Filo Penetrante 14",
+    "description": "Ignora parte de la armadura enemiga. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r15": {
+    "title": "Filo Penetrante 15",
+    "description": "Ignora parte de la armadura enemiga. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r16": {
+    "title": "Filo Penetrante 16",
+    "description": "Ignora parte de la armadura enemiga. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r17": {
+    "title": "Filo Penetrante 17",
+    "description": "Ignora parte de la armadura enemiga. (+0.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r18": {
+    "title": "Filo Penetrante 18",
+    "description": "Ignora parte de la armadura enemiga. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r19": {
+    "title": "Filo Penetrante 19",
+    "description": "Ignora parte de la armadura enemiga. (+0.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r20": {
+    "title": "Filo Penetrante 20",
+    "description": "Ignora parte de la armadura enemiga. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r21": {
+    "title": "Filo Penetrante 21",
+    "description": "Ignora parte de la armadura enemiga. (+0.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r22": {
+    "title": "Filo Penetrante 22",
+    "description": "Ignora parte de la armadura enemiga. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r23": {
+    "title": "Filo Penetrante 23",
+    "description": "Ignora parte de la armadura enemiga. (+0.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r24": {
+    "title": "Filo Penetrante 24",
+    "description": "Ignora parte de la armadura enemiga. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r25": {
+    "title": "Filo Penetrante 25",
+    "description": "Ignora parte de la armadura enemiga. (+1.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_sword"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:armor_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r1": {
+    "title": "Sed de Sangre 1",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.02 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r2": {
+    "title": "Sed de Sangre 2",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r3": {
+    "title": "Sed de Sangre 3",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.06 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r4": {
+    "title": "Sed de Sangre 4",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r5": {
+    "title": "Sed de Sangre 5",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.1 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r6": {
+    "title": "Sed de Sangre 6",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r7": {
+    "title": "Sed de Sangre 7",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.14 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r8": {
+    "title": "Sed de Sangre 8",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r9": {
+    "title": "Sed de Sangre 9",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.18 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r10": {
+    "title": "Sed de Sangre 10",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r11": {
+    "title": "Sed de Sangre 11",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.22 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r12": {
+    "title": "Sed de Sangre 12",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r13": {
+    "title": "Sed de Sangre 13",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.26 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r14": {
+    "title": "Sed de Sangre 14",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r15": {
+    "title": "Sed de Sangre 15",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r16": {
+    "title": "Sed de Sangre 16",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r17": {
+    "title": "Sed de Sangre 17",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.34 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r18": {
+    "title": "Sed de Sangre 18",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r19": {
+    "title": "Sed de Sangre 19",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.38 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r20": {
+    "title": "Sed de Sangre 20",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r21": {
+    "title": "Sed de Sangre 21",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.42 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r22": {
+    "title": "Sed de Sangre 22",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r23": {
+    "title": "Sed de Sangre 23",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.46 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r24": {
+    "title": "Sed de Sangre 24",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lifesteal_r25": {
+    "title": "Sed de Sangre 25",
+    "description": "Recupera una porción de vida con cada golpe de espada. (+0.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:fermented_spider_eye"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:life_steal",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r1": {
+    "title": "Ejecutor 1",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r2": {
+    "title": "Ejecutor 2",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r3": {
+    "title": "Ejecutor 3",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r4": {
+    "title": "Ejecutor 4",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r5": {
+    "title": "Ejecutor 5",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r6": {
+    "title": "Ejecutor 6",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r7": {
+    "title": "Ejecutor 7",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r8": {
+    "title": "Ejecutor 8",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r9": {
+    "title": "Ejecutor 9",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r10": {
+    "title": "Ejecutor 10",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r11": {
+    "title": "Ejecutor 11",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r12": {
+    "title": "Ejecutor 12",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r13": {
+    "title": "Ejecutor 13",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r14": {
+    "title": "Ejecutor 14",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r15": {
+    "title": "Ejecutor 15",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r16": {
+    "title": "Ejecutor 16",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r17": {
+    "title": "Ejecutor 17",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r18": {
+    "title": "Ejecutor 18",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r19": {
+    "title": "Ejecutor 19",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r20": {
+    "title": "Ejecutor 20",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r21": {
+    "title": "Ejecutor 21",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r22": {
+    "title": "Ejecutor 22",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r23": {
+    "title": "Ejecutor 23",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r24": {
+    "title": "Ejecutor 24",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crit_master_r25": {
+    "title": "Ejecutor 25",
+    "description": "Reduce la resistencia al daño de los enemigos golpeados. (+1.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  }
+}

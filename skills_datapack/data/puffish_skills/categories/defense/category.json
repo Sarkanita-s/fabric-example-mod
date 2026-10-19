@@ -1,0 +1,12 @@
+{
+  "unlocked_by_default": true,
+  "exclusive_root": false,
+  "title": "Tenacidad y Armadura",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "minecraft:diamond_chestplate"
+    }
+  },
+  "background": "textures/block/deepslate_bricks.png"
+}

@@ -1,0 +1,2627 @@
+{
+  "damage_r1": {
+    "title": "Flecha Letal 1",
+    "description": "Aumenta el daño de todas las armas a distancia. (+0.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r2": {
+    "title": "Flecha Letal 2",
+    "description": "Aumenta el daño de todas las armas a distancia. (+1.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r3": {
+    "title": "Flecha Letal 3",
+    "description": "Aumenta el daño de todas las armas a distancia. (+1.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r4": {
+    "title": "Flecha Letal 4",
+    "description": "Aumenta el daño de todas las armas a distancia. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r5": {
+    "title": "Flecha Letal 5",
+    "description": "Aumenta el daño de todas las armas a distancia. (+2.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r6": {
+    "title": "Flecha Letal 6",
+    "description": "Aumenta el daño de todas las armas a distancia. (+3.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r7": {
+    "title": "Flecha Letal 7",
+    "description": "Aumenta el daño de todas las armas a distancia. (+3.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r8": {
+    "title": "Flecha Letal 8",
+    "description": "Aumenta el daño de todas las armas a distancia. (+4.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r9": {
+    "title": "Flecha Letal 9",
+    "description": "Aumenta el daño de todas las armas a distancia. (+4.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r10": {
+    "title": "Flecha Letal 10",
+    "description": "Aumenta el daño de todas las armas a distancia. (+5.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r11": {
+    "title": "Flecha Letal 11",
+    "description": "Aumenta el daño de todas las armas a distancia. (+5.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r12": {
+    "title": "Flecha Letal 12",
+    "description": "Aumenta el daño de todas las armas a distancia. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r13": {
+    "title": "Flecha Letal 13",
+    "description": "Aumenta el daño de todas las armas a distancia. (+6.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r14": {
+    "title": "Flecha Letal 14",
+    "description": "Aumenta el daño de todas las armas a distancia. (+7.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r15": {
+    "title": "Flecha Letal 15",
+    "description": "Aumenta el daño de todas las armas a distancia. (+7.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r16": {
+    "title": "Flecha Letal 16",
+    "description": "Aumenta el daño de todas las armas a distancia. (+8.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r17": {
+    "title": "Flecha Letal 17",
+    "description": "Aumenta el daño de todas las armas a distancia. (+8.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r18": {
+    "title": "Flecha Letal 18",
+    "description": "Aumenta el daño de todas las armas a distancia. (+9.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r19": {
+    "title": "Flecha Letal 19",
+    "description": "Aumenta el daño de todas las armas a distancia. (+9.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r20": {
+    "title": "Flecha Letal 20",
+    "description": "Aumenta el daño de todas las armas a distancia. (+10.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r21": {
+    "title": "Flecha Letal 21",
+    "description": "Aumenta el daño de todas las armas a distancia. (+10.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r22": {
+    "title": "Flecha Letal 22",
+    "description": "Aumenta el daño de todas las armas a distancia. (+11.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r23": {
+    "title": "Flecha Letal 23",
+    "description": "Aumenta el daño de todas las armas a distancia. (+11.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r24": {
+    "title": "Flecha Letal 24",
+    "description": "Aumenta el daño de todas las armas a distancia. (+12.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "damage_r25": {
+    "title": "Flecha Letal 25",
+    "description": "Aumenta el daño de todas las armas a distancia. (+12.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r1": {
+    "title": "Vuelo Veloz (Arco) 1",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+0.06 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r2": {
+    "title": "Vuelo Veloz (Arco) 2",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r3": {
+    "title": "Vuelo Veloz (Arco) 3",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+0.18 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r4": {
+    "title": "Vuelo Veloz (Arco) 4",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r5": {
+    "title": "Vuelo Veloz (Arco) 5",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+0.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r6": {
+    "title": "Vuelo Veloz (Arco) 6",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r7": {
+    "title": "Vuelo Veloz (Arco) 7",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+0.42 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r8": {
+    "title": "Vuelo Veloz (Arco) 8",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r9": {
+    "title": "Vuelo Veloz (Arco) 9",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+0.54 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r10": {
+    "title": "Vuelo Veloz (Arco) 10",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r11": {
+    "title": "Vuelo Veloz (Arco) 11",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+0.66 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r12": {
+    "title": "Vuelo Veloz (Arco) 12",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r13": {
+    "title": "Vuelo Veloz (Arco) 13",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+0.78 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r14": {
+    "title": "Vuelo Veloz (Arco) 14",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+0.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r15": {
+    "title": "Vuelo Veloz (Arco) 15",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+0.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r16": {
+    "title": "Vuelo Veloz (Arco) 16",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r17": {
+    "title": "Vuelo Veloz (Arco) 17",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+1.02 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r18": {
+    "title": "Vuelo Veloz (Arco) 18",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+1.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r19": {
+    "title": "Vuelo Veloz (Arco) 19",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+1.14 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r20": {
+    "title": "Vuelo Veloz (Arco) 20",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r21": {
+    "title": "Vuelo Veloz (Arco) 21",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+1.26 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r22": {
+    "title": "Vuelo Veloz (Arco) 22",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+1.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r23": {
+    "title": "Vuelo Veloz (Arco) 23",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+1.38 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r24": {
+    "title": "Vuelo Veloz (Arco) 24",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "bow_speed_r25": {
+    "title": "Vuelo Veloz (Arco) 25",
+    "description": "Aumenta la velocidad y alcance de las flechas disparadas con arco. (+1.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spectral_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:bow_projectile_speed",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r1": {
+    "title": "Perno Balístico (Ballesta) 1",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r2": {
+    "title": "Perno Balístico (Ballesta) 2",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r3": {
+    "title": "Perno Balístico (Ballesta) 3",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r4": {
+    "title": "Perno Balístico (Ballesta) 4",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r5": {
+    "title": "Perno Balístico (Ballesta) 5",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r6": {
+    "title": "Perno Balístico (Ballesta) 6",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r7": {
+    "title": "Perno Balístico (Ballesta) 7",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r8": {
+    "title": "Perno Balístico (Ballesta) 8",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r9": {
+    "title": "Perno Balístico (Ballesta) 9",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r10": {
+    "title": "Perno Balístico (Ballesta) 10",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r11": {
+    "title": "Perno Balístico (Ballesta) 11",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r12": {
+    "title": "Perno Balístico (Ballesta) 12",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r13": {
+    "title": "Perno Balístico (Ballesta) 13",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+1.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r14": {
+    "title": "Perno Balístico (Ballesta) 14",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+1.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r15": {
+    "title": "Perno Balístico (Ballesta) 15",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r16": {
+    "title": "Perno Balístico (Ballesta) 16",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+1.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r17": {
+    "title": "Perno Balístico (Ballesta) 17",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+1.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r18": {
+    "title": "Perno Balístico (Ballesta) 18",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r19": {
+    "title": "Perno Balístico (Ballesta) 19",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+1.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r20": {
+    "title": "Perno Balístico (Ballesta) 20",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+1.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r21": {
+    "title": "Perno Balístico (Ballesta) 21",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+1.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r22": {
+    "title": "Perno Balístico (Ballesta) 22",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+1.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r23": {
+    "title": "Perno Balístico (Ballesta) 23",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+1.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r24": {
+    "title": "Perno Balístico (Ballesta) 24",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+1.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "crossbow_speed_r25": {
+    "title": "Perno Balístico (Ballesta) 25",
+    "description": "Acelera los virotes y cohetes disparados con ballesta. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:crossbow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:crossbow_projectile_speed",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r1": {
+    "title": "Tiro Perforante 1",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r2": {
+    "title": "Tiro Perforante 2",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r3": {
+    "title": "Tiro Perforante 3",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r4": {
+    "title": "Tiro Perforante 4",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r5": {
+    "title": "Tiro Perforante 5",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r6": {
+    "title": "Tiro Perforante 6",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r7": {
+    "title": "Tiro Perforante 7",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r8": {
+    "title": "Tiro Perforante 8",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r9": {
+    "title": "Tiro Perforante 9",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r10": {
+    "title": "Tiro Perforante 10",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r11": {
+    "title": "Tiro Perforante 11",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r12": {
+    "title": "Tiro Perforante 12",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r13": {
+    "title": "Tiro Perforante 13",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r14": {
+    "title": "Tiro Perforante 14",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r15": {
+    "title": "Tiro Perforante 15",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r16": {
+    "title": "Tiro Perforante 16",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r17": {
+    "title": "Tiro Perforante 17",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r18": {
+    "title": "Tiro Perforante 18",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r19": {
+    "title": "Tiro Perforante 19",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r20": {
+    "title": "Tiro Perforante 20",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r21": {
+    "title": "Tiro Perforante 21",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r22": {
+    "title": "Tiro Perforante 22",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r23": {
+    "title": "Tiro Perforante 23",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r24": {
+    "title": "Tiro Perforante 24",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "armor_pierce_r25": {
+    "title": "Tiro Perforante 25",
+    "description": "Reduce la resistencia a proyectiles de los objetivos. (+1.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:tipped_arrow"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_resistance_shred",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r1": {
+    "title": "Ojo de Halcón 1",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r2": {
+    "title": "Ojo de Halcón 2",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r3": {
+    "title": "Ojo de Halcón 3",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+1.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r4": {
+    "title": "Ojo de Halcón 4",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+2.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r5": {
+    "title": "Ojo de Halcón 5",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+3.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r6": {
+    "title": "Ojo de Halcón 6",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+3.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r7": {
+    "title": "Ojo de Halcón 7",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+4.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r8": {
+    "title": "Ojo de Halcón 8",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+4.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r9": {
+    "title": "Ojo de Halcón 9",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+5.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r10": {
+    "title": "Ojo de Halcón 10",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r11": {
+    "title": "Ojo de Halcón 11",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+6.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r12": {
+    "title": "Ojo de Halcón 12",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+7.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r13": {
+    "title": "Ojo de Halcón 13",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+7.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r14": {
+    "title": "Ojo de Halcón 14",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+8.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r15": {
+    "title": "Ojo de Halcón 15",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+9.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r16": {
+    "title": "Ojo de Halcón 16",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+9.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r17": {
+    "title": "Ojo de Halcón 17",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+10.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r18": {
+    "title": "Ojo de Halcón 18",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+10.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r19": {
+    "title": "Ojo de Halcón 19",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+11.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r20": {
+    "title": "Ojo de Halcón 20",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+12.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r21": {
+    "title": "Ojo de Halcón 21",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+12.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r22": {
+    "title": "Ojo de Halcón 22",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+13.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r23": {
+    "title": "Ojo de Halcón 23",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+13.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r24": {
+    "title": "Ojo de Halcón 24",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+14.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "eagle_eye_r25": {
+    "title": "Ojo de Halcón 25",
+    "description": "Aumenta drásticamente la letalidad a larga distancia. (+15.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:spyglass"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:ranged_damage",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  }
+}

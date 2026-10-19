@@ -1,0 +1,12 @@
+{
+  "unlocked_by_default": true,
+  "exclusive_root": false,
+  "title": "Tiro Certero (Arcos y Ballestas)",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "minecraft:bow"
+    }
+  },
+  "background": "textures/block/fletching_table_top.png"
+}

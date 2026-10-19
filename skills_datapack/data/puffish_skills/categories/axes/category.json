@@ -1,0 +1,12 @@
+{
+  "unlocked_by_default": true,
+  "exclusive_root": false,
+  "title": "Fuerza Bruta (Hachas)",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "minecraft:diamond_axe"
+    }
+  },
+  "background": "textures/block/polished_blackstone.png"
+}

@@ -1,0 +1,632 @@
+{
+  "s_sprint_speed_1": {
+    "x": 0,
+    "y": -36,
+    "definition": "sprint_speed_r1",
+    "root": true
+  },
+  "s_sprint_speed_2": {
+    "x": 0,
+    "y": -72,
+    "definition": "sprint_speed_r2"
+  },
+  "s_sprint_speed_3": {
+    "x": 0,
+    "y": -108,
+    "definition": "sprint_speed_r3"
+  },
+  "s_sprint_speed_4": {
+    "x": 0,
+    "y": -144,
+    "definition": "sprint_speed_r4"
+  },
+  "s_sprint_speed_5": {
+    "x": 0,
+    "y": -180,
+    "definition": "sprint_speed_r5"
+  },
+  "s_sprint_speed_6": {
+    "x": 0,
+    "y": -216,
+    "definition": "sprint_speed_r6"
+  },
+  "s_sprint_speed_7": {
+    "x": 0,
+    "y": -252,
+    "definition": "sprint_speed_r7"
+  },
+  "s_sprint_speed_8": {
+    "x": 0,
+    "y": -288,
+    "definition": "sprint_speed_r8"
+  },
+  "s_sprint_speed_9": {
+    "x": 0,
+    "y": -324,
+    "definition": "sprint_speed_r9"
+  },
+  "s_sprint_speed_10": {
+    "x": 0,
+    "y": -360,
+    "definition": "sprint_speed_r10"
+  },
+  "s_sprint_speed_11": {
+    "x": 0,
+    "y": -396,
+    "definition": "sprint_speed_r11"
+  },
+  "s_sprint_speed_12": {
+    "x": 0,
+    "y": -432,
+    "definition": "sprint_speed_r12"
+  },
+  "s_sprint_speed_13": {
+    "x": 0,
+    "y": -468,
+    "definition": "sprint_speed_r13"
+  },
+  "s_sprint_speed_14": {
+    "x": 0,
+    "y": -504,
+    "definition": "sprint_speed_r14"
+  },
+  "s_sprint_speed_15": {
+    "x": 0,
+    "y": -540,
+    "definition": "sprint_speed_r15"
+  },
+  "s_sprint_speed_16": {
+    "x": 0,
+    "y": -576,
+    "definition": "sprint_speed_r16"
+  },
+  "s_sprint_speed_17": {
+    "x": 0,
+    "y": -612,
+    "definition": "sprint_speed_r17"
+  },
+  "s_sprint_speed_18": {
+    "x": 0,
+    "y": -648,
+    "definition": "sprint_speed_r18"
+  },
+  "s_sprint_speed_19": {
+    "x": 0,
+    "y": -684,
+    "definition": "sprint_speed_r19"
+  },
+  "s_sprint_speed_20": {
+    "x": 0,
+    "y": -720,
+    "definition": "sprint_speed_r20"
+  },
+  "s_sprint_speed_21": {
+    "x": 0,
+    "y": -756,
+    "definition": "sprint_speed_r21"
+  },
+  "s_sprint_speed_22": {
+    "x": 0,
+    "y": -792,
+    "definition": "sprint_speed_r22"
+  },
+  "s_sprint_speed_23": {
+    "x": 0,
+    "y": -828,
+    "definition": "sprint_speed_r23"
+  },
+  "s_sprint_speed_24": {
+    "x": 0,
+    "y": -864,
+    "definition": "sprint_speed_r24"
+  },
+  "s_sprint_speed_25": {
+    "x": 0,
+    "y": -900,
+    "definition": "sprint_speed_r25"
+  },
+  "s_jump_height_1": {
+    "x": 36,
+    "y": 0,
+    "definition": "jump_height_r1",
+    "root": true
+  },
+  "s_jump_height_2": {
+    "x": 72,
+    "y": 0,
+    "definition": "jump_height_r2"
+  },
+  "s_jump_height_3": {
+    "x": 108,
+    "y": 0,
+    "definition": "jump_height_r3"
+  },
+  "s_jump_height_4": {
+    "x": 144,
+    "y": 0,
+    "definition": "jump_height_r4"
+  },
+  "s_jump_height_5": {
+    "x": 180,
+    "y": 0,
+    "definition": "jump_height_r5"
+  },
+  "s_jump_height_6": {
+    "x": 216,
+    "y": 0,
+    "definition": "jump_height_r6"
+  },
+  "s_jump_height_7": {
+    "x": 252,
+    "y": 0,
+    "definition": "jump_height_r7"
+  },
+  "s_jump_height_8": {
+    "x": 288,
+    "y": 0,
+    "definition": "jump_height_r8"
+  },
+  "s_jump_height_9": {
+    "x": 324,
+    "y": 0,
+    "definition": "jump_height_r9"
+  },
+  "s_jump_height_10": {
+    "x": 360,
+    "y": 0,
+    "definition": "jump_height_r10"
+  },
+  "s_jump_height_11": {
+    "x": 396,
+    "y": 0,
+    "definition": "jump_height_r11"
+  },
+  "s_jump_height_12": {
+    "x": 432,
+    "y": 0,
+    "definition": "jump_height_r12"
+  },
+  "s_jump_height_13": {
+    "x": 468,
+    "y": 0,
+    "definition": "jump_height_r13"
+  },
+  "s_jump_height_14": {
+    "x": 504,
+    "y": 0,
+    "definition": "jump_height_r14"
+  },
+  "s_jump_height_15": {
+    "x": 540,
+    "y": 0,
+    "definition": "jump_height_r15"
+  },
+  "s_jump_height_16": {
+    "x": 576,
+    "y": 0,
+    "definition": "jump_height_r16"
+  },
+  "s_jump_height_17": {
+    "x": 612,
+    "y": 0,
+    "definition": "jump_height_r17"
+  },
+  "s_jump_height_18": {
+    "x": 648,
+    "y": 0,
+    "definition": "jump_height_r18"
+  },
+  "s_jump_height_19": {
+    "x": 684,
+    "y": 0,
+    "definition": "jump_height_r19"
+  },
+  "s_jump_height_20": {
+    "x": 720,
+    "y": 0,
+    "definition": "jump_height_r20"
+  },
+  "s_jump_height_21": {
+    "x": 756,
+    "y": 0,
+    "definition": "jump_height_r21"
+  },
+  "s_jump_height_22": {
+    "x": 792,
+    "y": 0,
+    "definition": "jump_height_r22"
+  },
+  "s_jump_height_23": {
+    "x": 828,
+    "y": 0,
+    "definition": "jump_height_r23"
+  },
+  "s_jump_height_24": {
+    "x": 864,
+    "y": 0,
+    "definition": "jump_height_r24"
+  },
+  "s_jump_height_25": {
+    "x": 900,
+    "y": 0,
+    "definition": "jump_height_r25"
+  },
+  "s_move_speed_1": {
+    "x": 0,
+    "y": 36,
+    "definition": "move_speed_r1",
+    "root": true
+  },
+  "s_move_speed_2": {
+    "x": 0,
+    "y": 72,
+    "definition": "move_speed_r2"
+  },
+  "s_move_speed_3": {
+    "x": 0,
+    "y": 108,
+    "definition": "move_speed_r3"
+  },
+  "s_move_speed_4": {
+    "x": 0,
+    "y": 144,
+    "definition": "move_speed_r4"
+  },
+  "s_move_speed_5": {
+    "x": 0,
+    "y": 180,
+    "definition": "move_speed_r5"
+  },
+  "s_move_speed_6": {
+    "x": 0,
+    "y": 216,
+    "definition": "move_speed_r6"
+  },
+  "s_move_speed_7": {
+    "x": 0,
+    "y": 252,
+    "definition": "move_speed_r7"
+  },
+  "s_move_speed_8": {
+    "x": 0,
+    "y": 288,
+    "definition": "move_speed_r8"
+  },
+  "s_move_speed_9": {
+    "x": 0,
+    "y": 324,
+    "definition": "move_speed_r9"
+  },
+  "s_move_speed_10": {
+    "x": 0,
+    "y": 360,
+    "definition": "move_speed_r10"
+  },
+  "s_move_speed_11": {
+    "x": 0,
+    "y": 396,
+    "definition": "move_speed_r11"
+  },
+  "s_move_speed_12": {
+    "x": 0,
+    "y": 432,
+    "definition": "move_speed_r12"
+  },
+  "s_move_speed_13": {
+    "x": 0,
+    "y": 468,
+    "definition": "move_speed_r13"
+  },
+  "s_move_speed_14": {
+    "x": 0,
+    "y": 504,
+    "definition": "move_speed_r14"
+  },
+  "s_move_speed_15": {
+    "x": 0,
+    "y": 540,
+    "definition": "move_speed_r15"
+  },
+  "s_move_speed_16": {
+    "x": 0,
+    "y": 576,
+    "definition": "move_speed_r16"
+  },
+  "s_move_speed_17": {
+    "x": 0,
+    "y": 612,
+    "definition": "move_speed_r17"
+  },
+  "s_move_speed_18": {
+    "x": 0,
+    "y": 648,
+    "definition": "move_speed_r18"
+  },
+  "s_move_speed_19": {
+    "x": 0,
+    "y": 684,
+    "definition": "move_speed_r19"
+  },
+  "s_move_speed_20": {
+    "x": 0,
+    "y": 720,
+    "definition": "move_speed_r20"
+  },
+  "s_move_speed_21": {
+    "x": 0,
+    "y": 756,
+    "definition": "move_speed_r21"
+  },
+  "s_move_speed_22": {
+    "x": 0,
+    "y": 792,
+    "definition": "move_speed_r22"
+  },
+  "s_move_speed_23": {
+    "x": 0,
+    "y": 828,
+    "definition": "move_speed_r23"
+  },
+  "s_move_speed_24": {
+    "x": 0,
+    "y": 864,
+    "definition": "move_speed_r24"
+  },
+  "s_move_speed_25": {
+    "x": 0,
+    "y": 900,
+    "definition": "move_speed_r25"
+  },
+  "s_fall_resist_1": {
+    "x": -36,
+    "y": 0,
+    "definition": "fall_resist_r1",
+    "root": true
+  },
+  "s_fall_resist_2": {
+    "x": -72,
+    "y": 0,
+    "definition": "fall_resist_r2"
+  },
+  "s_fall_resist_3": {
+    "x": -108,
+    "y": 0,
+    "definition": "fall_resist_r3"
+  },
+  "s_fall_resist_4": {
+    "x": -144,
+    "y": 0,
+    "definition": "fall_resist_r4"
+  },
+  "s_fall_resist_5": {
+    "x": -180,
+    "y": 0,
+    "definition": "fall_resist_r5"
+  },
+  "s_fall_resist_6": {
+    "x": -216,
+    "y": 0,
+    "definition": "fall_resist_r6"
+  },
+  "s_fall_resist_7": {
+    "x": -252,
+    "y": 0,
+    "definition": "fall_resist_r7"
+  },
+  "s_fall_resist_8": {
+    "x": -288,
+    "y": 0,
+    "definition": "fall_resist_r8"
+  },
+  "s_fall_resist_9": {
+    "x": -324,
+    "y": 0,
+    "definition": "fall_resist_r9"
+  },
+  "s_fall_resist_10": {
+    "x": -360,
+    "y": 0,
+    "definition": "fall_resist_r10"
+  },
+  "s_fall_resist_11": {
+    "x": -396,
+    "y": 0,
+    "definition": "fall_resist_r11"
+  },
+  "s_fall_resist_12": {
+    "x": -432,
+    "y": 0,
+    "definition": "fall_resist_r12"
+  },
+  "s_fall_resist_13": {
+    "x": -468,
+    "y": 0,
+    "definition": "fall_resist_r13"
+  },
+  "s_fall_resist_14": {
+    "x": -504,
+    "y": 0,
+    "definition": "fall_resist_r14"
+  },
+  "s_fall_resist_15": {
+    "x": -540,
+    "y": 0,
+    "definition": "fall_resist_r15"
+  },
+  "s_fall_resist_16": {
+    "x": -576,
+    "y": 0,
+    "definition": "fall_resist_r16"
+  },
+  "s_fall_resist_17": {
+    "x": -612,
+    "y": 0,
+    "definition": "fall_resist_r17"
+  },
+  "s_fall_resist_18": {
+    "x": -648,
+    "y": 0,
+    "definition": "fall_resist_r18"
+  },
+  "s_fall_resist_19": {
+    "x": -684,
+    "y": 0,
+    "definition": "fall_resist_r19"
+  },
+  "s_fall_resist_20": {
+    "x": -720,
+    "y": 0,
+    "definition": "fall_resist_r20"
+  },
+  "s_fall_resist_21": {
+    "x": -756,
+    "y": 0,
+    "definition": "fall_resist_r21"
+  },
+  "s_fall_resist_22": {
+    "x": -792,
+    "y": 0,
+    "definition": "fall_resist_r22"
+  },
+  "s_fall_resist_23": {
+    "x": -828,
+    "y": 0,
+    "definition": "fall_resist_r23"
+  },
+  "s_fall_resist_24": {
+    "x": -864,
+    "y": 0,
+    "definition": "fall_resist_r24"
+  },
+  "s_fall_resist_25": {
+    "x": -900,
+    "y": 0,
+    "definition": "fall_resist_r25"
+  },
+  "s_stealth_agility_1": {
+    "x": 26,
+    "y": -26,
+    "definition": "stealth_agility_r1",
+    "root": true
+  },
+  "s_stealth_agility_2": {
+    "x": 52,
+    "y": -52,
+    "definition": "stealth_agility_r2"
+  },
+  "s_stealth_agility_3": {
+    "x": 78,
+    "y": -78,
+    "definition": "stealth_agility_r3"
+  },
+  "s_stealth_agility_4": {
+    "x": 104,
+    "y": -104,
+    "definition": "stealth_agility_r4"
+  },
+  "s_stealth_agility_5": {
+    "x": 130,
+    "y": -130,
+    "definition": "stealth_agility_r5"
+  },
+  "s_stealth_agility_6": {
+    "x": 156,
+    "y": -156,
+    "definition": "stealth_agility_r6"
+  },
+  "s_stealth_agility_7": {
+    "x": 182,
+    "y": -182,
+    "definition": "stealth_agility_r7"
+  },
+  "s_stealth_agility_8": {
+    "x": 208,
+    "y": -208,
+    "definition": "stealth_agility_r8"
+  },
+  "s_stealth_agility_9": {
+    "x": 234,
+    "y": -234,
+    "definition": "stealth_agility_r9"
+  },
+  "s_stealth_agility_10": {
+    "x": 260,
+    "y": -260,
+    "definition": "stealth_agility_r10"
+  },
+  "s_stealth_agility_11": {
+    "x": 286,
+    "y": -286,
+    "definition": "stealth_agility_r11"
+  },
+  "s_stealth_agility_12": {
+    "x": 312,
+    "y": -312,
+    "definition": "stealth_agility_r12"
+  },
+  "s_stealth_agility_13": {
+    "x": 338,
+    "y": -338,
+    "definition": "stealth_agility_r13"
+  },
+  "s_stealth_agility_14": {
+    "x": 364,
+    "y": -364,
+    "definition": "stealth_agility_r14"
+  },
+  "s_stealth_agility_15": {
+    "x": 390,
+    "y": -390,
+    "definition": "stealth_agility_r15"
+  },
+  "s_stealth_agility_16": {
+    "x": 416,
+    "y": -416,
+    "definition": "stealth_agility_r16"
+  },
+  "s_stealth_agility_17": {
+    "x": 442,
+    "y": -442,
+    "definition": "stealth_agility_r17"
+  },
+  "s_stealth_agility_18": {
+    "x": 468,
+    "y": -468,
+    "definition": "stealth_agility_r18"
+  },
+  "s_stealth_agility_19": {
+    "x": 494,
+    "y": -494,
+    "definition": "stealth_agility_r19"
+  },
+  "s_stealth_agility_20": {
+    "x": 520,
+    "y": -520,
+    "definition": "stealth_agility_r20"
+  },
+  "s_stealth_agility_21": {
+    "x": 546,
+    "y": -546,
+    "definition": "stealth_agility_r21"
+  },
+  "s_stealth_agility_22": {
+    "x": 572,
+    "y": -572,
+    "definition": "stealth_agility_r22"
+  },
+  "s_stealth_agility_23": {
+    "x": 598,
+    "y": -598,
+    "definition": "stealth_agility_r23"
+  },
+  "s_stealth_agility_24": {
+    "x": 624,
+    "y": -624,
+    "definition": "stealth_agility_r24"
+  },
+  "s_stealth_agility_25": {
+    "x": 650,
+    "y": -650,
+    "definition": "stealth_agility_r25"
+  }
+}

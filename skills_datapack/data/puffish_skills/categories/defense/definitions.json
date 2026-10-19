@@ -1,0 +1,2627 @@
+{
+  "health_r1": {
+    "title": "Vitalidad Titánica 1",
+    "description": "Aumenta los corazones máximos de vida. (+1.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r2": {
+    "title": "Vitalidad Titánica 2",
+    "description": "Aumenta los corazones máximos de vida. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r3": {
+    "title": "Vitalidad Titánica 3",
+    "description": "Aumenta los corazones máximos de vida. (+3.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r4": {
+    "title": "Vitalidad Titánica 4",
+    "description": "Aumenta los corazones máximos de vida. (+4.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r5": {
+    "title": "Vitalidad Titánica 5",
+    "description": "Aumenta los corazones máximos de vida. (+5.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r6": {
+    "title": "Vitalidad Titánica 6",
+    "description": "Aumenta los corazones máximos de vida. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r7": {
+    "title": "Vitalidad Titánica 7",
+    "description": "Aumenta los corazones máximos de vida. (+7.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r8": {
+    "title": "Vitalidad Titánica 8",
+    "description": "Aumenta los corazones máximos de vida. (+8.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r9": {
+    "title": "Vitalidad Titánica 9",
+    "description": "Aumenta los corazones máximos de vida. (+9.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r10": {
+    "title": "Vitalidad Titánica 10",
+    "description": "Aumenta los corazones máximos de vida. (+10.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r11": {
+    "title": "Vitalidad Titánica 11",
+    "description": "Aumenta los corazones máximos de vida. (+11.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r12": {
+    "title": "Vitalidad Titánica 12",
+    "description": "Aumenta los corazones máximos de vida. (+12.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r13": {
+    "title": "Vitalidad Titánica 13",
+    "description": "Aumenta los corazones máximos de vida. (+13.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r14": {
+    "title": "Vitalidad Titánica 14",
+    "description": "Aumenta los corazones máximos de vida. (+14.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r15": {
+    "title": "Vitalidad Titánica 15",
+    "description": "Aumenta los corazones máximos de vida. (+15.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r16": {
+    "title": "Vitalidad Titánica 16",
+    "description": "Aumenta los corazones máximos de vida. (+16.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r17": {
+    "title": "Vitalidad Titánica 17",
+    "description": "Aumenta los corazones máximos de vida. (+17.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r18": {
+    "title": "Vitalidad Titánica 18",
+    "description": "Aumenta los corazones máximos de vida. (+18.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r19": {
+    "title": "Vitalidad Titánica 19",
+    "description": "Aumenta los corazones máximos de vida. (+19.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r20": {
+    "title": "Vitalidad Titánica 20",
+    "description": "Aumenta los corazones máximos de vida. (+20.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r21": {
+    "title": "Vitalidad Titánica 21",
+    "description": "Aumenta los corazones máximos de vida. (+21.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r22": {
+    "title": "Vitalidad Titánica 22",
+    "description": "Aumenta los corazones máximos de vida. (+22.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r23": {
+    "title": "Vitalidad Titánica 23",
+    "description": "Aumenta los corazones máximos de vida. (+23.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r24": {
+    "title": "Vitalidad Titánica 24",
+    "description": "Aumenta los corazones máximos de vida. (+24.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "health_r25": {
+    "title": "Vitalidad Titánica 25",
+    "description": "Aumenta los corazones máximos de vida. (+25.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.max_health",
+          "value": 1.0,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r1": {
+    "title": "Piel de Acero 1",
+    "description": "Reduce todo el daño recibido. (+0.02 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r2": {
+    "title": "Piel de Acero 2",
+    "description": "Reduce todo el daño recibido. (+0.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r3": {
+    "title": "Piel de Acero 3",
+    "description": "Reduce todo el daño recibido. (+0.06 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r4": {
+    "title": "Piel de Acero 4",
+    "description": "Reduce todo el daño recibido. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r5": {
+    "title": "Piel de Acero 5",
+    "description": "Reduce todo el daño recibido. (+0.1 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r6": {
+    "title": "Piel de Acero 6",
+    "description": "Reduce todo el daño recibido. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r7": {
+    "title": "Piel de Acero 7",
+    "description": "Reduce todo el daño recibido. (+0.14 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r8": {
+    "title": "Piel de Acero 8",
+    "description": "Reduce todo el daño recibido. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r9": {
+    "title": "Piel de Acero 9",
+    "description": "Reduce todo el daño recibido. (+0.18 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r10": {
+    "title": "Piel de Acero 10",
+    "description": "Reduce todo el daño recibido. (+0.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r11": {
+    "title": "Piel de Acero 11",
+    "description": "Reduce todo el daño recibido. (+0.22 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r12": {
+    "title": "Piel de Acero 12",
+    "description": "Reduce todo el daño recibido. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r13": {
+    "title": "Piel de Acero 13",
+    "description": "Reduce todo el daño recibido. (+0.26 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r14": {
+    "title": "Piel de Acero 14",
+    "description": "Reduce todo el daño recibido. (+0.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r15": {
+    "title": "Piel de Acero 15",
+    "description": "Reduce todo el daño recibido. (+0.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r16": {
+    "title": "Piel de Acero 16",
+    "description": "Reduce todo el daño recibido. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r17": {
+    "title": "Piel de Acero 17",
+    "description": "Reduce todo el daño recibido. (+0.34 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r18": {
+    "title": "Piel de Acero 18",
+    "description": "Reduce todo el daño recibido. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r19": {
+    "title": "Piel de Acero 19",
+    "description": "Reduce todo el daño recibido. (+0.38 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r20": {
+    "title": "Piel de Acero 20",
+    "description": "Reduce todo el daño recibido. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r21": {
+    "title": "Piel de Acero 21",
+    "description": "Reduce todo el daño recibido. (+0.42 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r22": {
+    "title": "Piel de Acero 22",
+    "description": "Reduce todo el daño recibido. (+0.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r23": {
+    "title": "Piel de Acero 23",
+    "description": "Reduce todo el daño recibido. (+0.46 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r24": {
+    "title": "Piel de Acero 24",
+    "description": "Reduce todo el daño recibido. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "resistance_r25": {
+    "title": "Piel de Acero 25",
+    "description": "Reduce todo el daño recibido. (+0.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_chestplate"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r1": {
+    "title": "Caída Ligera 1",
+    "description": "Reduce considerablemente el daño por caída. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r2": {
+    "title": "Caída Ligera 2",
+    "description": "Reduce considerablemente el daño por caída. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r3": {
+    "title": "Caída Ligera 3",
+    "description": "Reduce considerablemente el daño por caída. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r4": {
+    "title": "Caída Ligera 4",
+    "description": "Reduce considerablemente el daño por caída. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r5": {
+    "title": "Caída Ligera 5",
+    "description": "Reduce considerablemente el daño por caída. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r6": {
+    "title": "Caída Ligera 6",
+    "description": "Reduce considerablemente el daño por caída. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r7": {
+    "title": "Caída Ligera 7",
+    "description": "Reduce considerablemente el daño por caída. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r8": {
+    "title": "Caída Ligera 8",
+    "description": "Reduce considerablemente el daño por caída. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r9": {
+    "title": "Caída Ligera 9",
+    "description": "Reduce considerablemente el daño por caída. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r10": {
+    "title": "Caída Ligera 10",
+    "description": "Reduce considerablemente el daño por caída. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r11": {
+    "title": "Caída Ligera 11",
+    "description": "Reduce considerablemente el daño por caída. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r12": {
+    "title": "Caída Ligera 12",
+    "description": "Reduce considerablemente el daño por caída. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r13": {
+    "title": "Caída Ligera 13",
+    "description": "Reduce considerablemente el daño por caída. (+1.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r14": {
+    "title": "Caída Ligera 14",
+    "description": "Reduce considerablemente el daño por caída. (+1.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r15": {
+    "title": "Caída Ligera 15",
+    "description": "Reduce considerablemente el daño por caída. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r16": {
+    "title": "Caída Ligera 16",
+    "description": "Reduce considerablemente el daño por caída. (+1.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r17": {
+    "title": "Caída Ligera 17",
+    "description": "Reduce considerablemente el daño por caída. (+1.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r18": {
+    "title": "Caída Ligera 18",
+    "description": "Reduce considerablemente el daño por caída. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r19": {
+    "title": "Caída Ligera 19",
+    "description": "Reduce considerablemente el daño por caída. (+1.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r20": {
+    "title": "Caída Ligera 20",
+    "description": "Reduce considerablemente el daño por caída. (+1.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r21": {
+    "title": "Caída Ligera 21",
+    "description": "Reduce considerablemente el daño por caída. (+1.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r22": {
+    "title": "Caída Ligera 22",
+    "description": "Reduce considerablemente el daño por caída. (+1.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r23": {
+    "title": "Caída Ligera 23",
+    "description": "Reduce considerablemente el daño por caída. (+1.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r24": {
+    "title": "Caída Ligera 24",
+    "description": "Reduce considerablemente el daño por caída. (+1.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_protection_r25": {
+    "title": "Caída Ligera 25",
+    "description": "Reduce considerablemente el daño por caída. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:feather"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r1": {
+    "title": "Espinas Vengativas 1",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r2": {
+    "title": "Espinas Vengativas 2",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r3": {
+    "title": "Espinas Vengativas 3",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r4": {
+    "title": "Espinas Vengativas 4",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r5": {
+    "title": "Espinas Vengativas 5",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r6": {
+    "title": "Espinas Vengativas 6",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r7": {
+    "title": "Espinas Vengativas 7",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r8": {
+    "title": "Espinas Vengativas 8",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r9": {
+    "title": "Espinas Vengativas 9",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r10": {
+    "title": "Espinas Vengativas 10",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r11": {
+    "title": "Espinas Vengativas 11",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r12": {
+    "title": "Espinas Vengativas 12",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r13": {
+    "title": "Espinas Vengativas 13",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r14": {
+    "title": "Espinas Vengativas 14",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r15": {
+    "title": "Espinas Vengativas 15",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r16": {
+    "title": "Espinas Vengativas 16",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r17": {
+    "title": "Espinas Vengativas 17",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r18": {
+    "title": "Espinas Vengativas 18",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r19": {
+    "title": "Espinas Vengativas 19",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r20": {
+    "title": "Espinas Vengativas 20",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r21": {
+    "title": "Espinas Vengativas 21",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r22": {
+    "title": "Espinas Vengativas 22",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r23": {
+    "title": "Espinas Vengativas 23",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r24": {
+    "title": "Espinas Vengativas 24",
+    "description": "Refleja parte del daño de vuelta al atacante. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "reflection_r25": {
+    "title": "Espinas Vengativas 25",
+    "description": "Refleja parte del daño de vuelta al atacante. (+1.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:shield"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:damage_reflection",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r1": {
+    "title": "Recuperación Veloz 1",
+    "description": "Acelera la regeneración natural de salud. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r2": {
+    "title": "Recuperación Veloz 2",
+    "description": "Acelera la regeneración natural de salud. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r3": {
+    "title": "Recuperación Veloz 3",
+    "description": "Acelera la regeneración natural de salud. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r4": {
+    "title": "Recuperación Veloz 4",
+    "description": "Acelera la regeneración natural de salud. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r5": {
+    "title": "Recuperación Veloz 5",
+    "description": "Acelera la regeneración natural de salud. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r6": {
+    "title": "Recuperación Veloz 6",
+    "description": "Acelera la regeneración natural de salud. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r7": {
+    "title": "Recuperación Veloz 7",
+    "description": "Acelera la regeneración natural de salud. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r8": {
+    "title": "Recuperación Veloz 8",
+    "description": "Acelera la regeneración natural de salud. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r9": {
+    "title": "Recuperación Veloz 9",
+    "description": "Acelera la regeneración natural de salud. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r10": {
+    "title": "Recuperación Veloz 10",
+    "description": "Acelera la regeneración natural de salud. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r11": {
+    "title": "Recuperación Veloz 11",
+    "description": "Acelera la regeneración natural de salud. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r12": {
+    "title": "Recuperación Veloz 12",
+    "description": "Acelera la regeneración natural de salud. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r13": {
+    "title": "Recuperación Veloz 13",
+    "description": "Acelera la regeneración natural de salud. (+1.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r14": {
+    "title": "Recuperación Veloz 14",
+    "description": "Acelera la regeneración natural de salud. (+1.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r15": {
+    "title": "Recuperación Veloz 15",
+    "description": "Acelera la regeneración natural de salud. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r16": {
+    "title": "Recuperación Veloz 16",
+    "description": "Acelera la regeneración natural de salud. (+1.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r17": {
+    "title": "Recuperación Veloz 17",
+    "description": "Acelera la regeneración natural de salud. (+1.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r18": {
+    "title": "Recuperación Veloz 18",
+    "description": "Acelera la regeneración natural de salud. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r19": {
+    "title": "Recuperación Veloz 19",
+    "description": "Acelera la regeneración natural de salud. (+1.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r20": {
+    "title": "Recuperación Veloz 20",
+    "description": "Acelera la regeneración natural de salud. (+1.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r21": {
+    "title": "Recuperación Veloz 21",
+    "description": "Acelera la regeneración natural de salud. (+1.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r22": {
+    "title": "Recuperación Veloz 22",
+    "description": "Acelera la regeneración natural de salud. (+1.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r23": {
+    "title": "Recuperación Veloz 23",
+    "description": "Acelera la regeneración natural de salud. (+1.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r24": {
+    "title": "Recuperación Veloz 24",
+    "description": "Acelera la regeneración natural de salud. (+1.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "regeneration_r25": {
+    "title": "Recuperación Veloz 25",
+    "description": "Acelera la regeneración natural de salud. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:natural_regeneration",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  }
+}

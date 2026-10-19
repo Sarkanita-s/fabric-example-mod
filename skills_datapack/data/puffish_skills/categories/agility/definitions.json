@@ -1,0 +1,2627 @@
+{
+  "sprint_speed_r1": {
+    "title": "Zancada Rápida 1",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.03 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r2": {
+    "title": "Zancada Rápida 2",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.06 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r3": {
+    "title": "Zancada Rápida 3",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.09 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r4": {
+    "title": "Zancada Rápida 4",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r5": {
+    "title": "Zancada Rápida 5",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.15 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r6": {
+    "title": "Zancada Rápida 6",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.18 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r7": {
+    "title": "Zancada Rápida 7",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.21 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r8": {
+    "title": "Zancada Rápida 8",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r9": {
+    "title": "Zancada Rápida 9",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.27 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r10": {
+    "title": "Zancada Rápida 10",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r11": {
+    "title": "Zancada Rápida 11",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.33 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r12": {
+    "title": "Zancada Rápida 12",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r13": {
+    "title": "Zancada Rápida 13",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.39 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r14": {
+    "title": "Zancada Rápida 14",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.42 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r15": {
+    "title": "Zancada Rápida 15",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.45 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r16": {
+    "title": "Zancada Rápida 16",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r17": {
+    "title": "Zancada Rápida 17",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.51 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r18": {
+    "title": "Zancada Rápida 18",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.54 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r19": {
+    "title": "Zancada Rápida 19",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.57 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r20": {
+    "title": "Zancada Rápida 20",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r21": {
+    "title": "Zancada Rápida 21",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.63 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r22": {
+    "title": "Zancada Rápida 22",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.66 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r23": {
+    "title": "Zancada Rápida 23",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.69 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r24": {
+    "title": "Zancada Rápida 24",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sprint_speed_r25": {
+    "title": "Zancada Rápida 25",
+    "description": "Aumenta la velocidad al esprintar/correr. (+0.75 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:leather_boots"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r1": {
+    "title": "Impulso Atlético 1",
+    "description": "Aumenta la altura y comodidad de salto. (+0.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r2": {
+    "title": "Impulso Atlético 2",
+    "description": "Aumenta la altura y comodidad de salto. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r3": {
+    "title": "Impulso Atlético 3",
+    "description": "Aumenta la altura y comodidad de salto. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r4": {
+    "title": "Impulso Atlético 4",
+    "description": "Aumenta la altura y comodidad de salto. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r5": {
+    "title": "Impulso Atlético 5",
+    "description": "Aumenta la altura y comodidad de salto. (+0.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r6": {
+    "title": "Impulso Atlético 6",
+    "description": "Aumenta la altura y comodidad de salto. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r7": {
+    "title": "Impulso Atlético 7",
+    "description": "Aumenta la altura y comodidad de salto. (+0.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r8": {
+    "title": "Impulso Atlético 8",
+    "description": "Aumenta la altura y comodidad de salto. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r9": {
+    "title": "Impulso Atlético 9",
+    "description": "Aumenta la altura y comodidad de salto. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r10": {
+    "title": "Impulso Atlético 10",
+    "description": "Aumenta la altura y comodidad de salto. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r11": {
+    "title": "Impulso Atlético 11",
+    "description": "Aumenta la altura y comodidad de salto. (+0.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r12": {
+    "title": "Impulso Atlético 12",
+    "description": "Aumenta la altura y comodidad de salto. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r13": {
+    "title": "Impulso Atlético 13",
+    "description": "Aumenta la altura y comodidad de salto. (+0.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r14": {
+    "title": "Impulso Atlético 14",
+    "description": "Aumenta la altura y comodidad de salto. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r15": {
+    "title": "Impulso Atlético 15",
+    "description": "Aumenta la altura y comodidad de salto. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r16": {
+    "title": "Impulso Atlético 16",
+    "description": "Aumenta la altura y comodidad de salto. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r17": {
+    "title": "Impulso Atlético 17",
+    "description": "Aumenta la altura y comodidad de salto. (+0.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r18": {
+    "title": "Impulso Atlético 18",
+    "description": "Aumenta la altura y comodidad de salto. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r19": {
+    "title": "Impulso Atlético 19",
+    "description": "Aumenta la altura y comodidad de salto. (+0.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r20": {
+    "title": "Impulso Atlético 20",
+    "description": "Aumenta la altura y comodidad de salto. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r21": {
+    "title": "Impulso Atlético 21",
+    "description": "Aumenta la altura y comodidad de salto. (+0.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r22": {
+    "title": "Impulso Atlético 22",
+    "description": "Aumenta la altura y comodidad de salto. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r23": {
+    "title": "Impulso Atlético 23",
+    "description": "Aumenta la altura y comodidad de salto. (+0.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r24": {
+    "title": "Impulso Atlético 24",
+    "description": "Aumenta la altura y comodidad de salto. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "jump_height_r25": {
+    "title": "Impulso Atlético 25",
+    "description": "Aumenta la altura y comodidad de salto. (+1.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:rabbit_foot"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:jump",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r1": {
+    "title": "Pies Ligeros 1",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.02 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r2": {
+    "title": "Pies Ligeros 2",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r3": {
+    "title": "Pies Ligeros 3",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.06 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r4": {
+    "title": "Pies Ligeros 4",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r5": {
+    "title": "Pies Ligeros 5",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.1 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r6": {
+    "title": "Pies Ligeros 6",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r7": {
+    "title": "Pies Ligeros 7",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.14 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r8": {
+    "title": "Pies Ligeros 8",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r9": {
+    "title": "Pies Ligeros 9",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.18 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r10": {
+    "title": "Pies Ligeros 10",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r11": {
+    "title": "Pies Ligeros 11",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.22 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r12": {
+    "title": "Pies Ligeros 12",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r13": {
+    "title": "Pies Ligeros 13",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.26 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r14": {
+    "title": "Pies Ligeros 14",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r15": {
+    "title": "Pies Ligeros 15",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r16": {
+    "title": "Pies Ligeros 16",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r17": {
+    "title": "Pies Ligeros 17",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.34 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r18": {
+    "title": "Pies Ligeros 18",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r19": {
+    "title": "Pies Ligeros 19",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.38 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r20": {
+    "title": "Pies Ligeros 20",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r21": {
+    "title": "Pies Ligeros 21",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.42 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r22": {
+    "title": "Pies Ligeros 22",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r23": {
+    "title": "Pies Ligeros 23",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.46 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r24": {
+    "title": "Pies Ligeros 24",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "move_speed_r25": {
+    "title": "Pies Ligeros 25",
+    "description": "Aumenta la velocidad base de movimiento al caminar. (+0.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:wind_charge"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "minecraft:generic.movement_speed",
+          "value": 0.02,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r1": {
+    "title": "Aterrizaje Suave 1",
+    "description": "Disminuye el impacto de cualquier caída. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r2": {
+    "title": "Aterrizaje Suave 2",
+    "description": "Disminuye el impacto de cualquier caída. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r3": {
+    "title": "Aterrizaje Suave 3",
+    "description": "Disminuye el impacto de cualquier caída. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r4": {
+    "title": "Aterrizaje Suave 4",
+    "description": "Disminuye el impacto de cualquier caída. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r5": {
+    "title": "Aterrizaje Suave 5",
+    "description": "Disminuye el impacto de cualquier caída. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r6": {
+    "title": "Aterrizaje Suave 6",
+    "description": "Disminuye el impacto de cualquier caída. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r7": {
+    "title": "Aterrizaje Suave 7",
+    "description": "Disminuye el impacto de cualquier caída. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r8": {
+    "title": "Aterrizaje Suave 8",
+    "description": "Disminuye el impacto de cualquier caída. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r9": {
+    "title": "Aterrizaje Suave 9",
+    "description": "Disminuye el impacto de cualquier caída. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r10": {
+    "title": "Aterrizaje Suave 10",
+    "description": "Disminuye el impacto de cualquier caída. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r11": {
+    "title": "Aterrizaje Suave 11",
+    "description": "Disminuye el impacto de cualquier caída. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r12": {
+    "title": "Aterrizaje Suave 12",
+    "description": "Disminuye el impacto de cualquier caída. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r13": {
+    "title": "Aterrizaje Suave 13",
+    "description": "Disminuye el impacto de cualquier caída. (+1.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r14": {
+    "title": "Aterrizaje Suave 14",
+    "description": "Disminuye el impacto de cualquier caída. (+1.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r15": {
+    "title": "Aterrizaje Suave 15",
+    "description": "Disminuye el impacto de cualquier caída. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r16": {
+    "title": "Aterrizaje Suave 16",
+    "description": "Disminuye el impacto de cualquier caída. (+1.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r17": {
+    "title": "Aterrizaje Suave 17",
+    "description": "Disminuye el impacto de cualquier caída. (+1.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r18": {
+    "title": "Aterrizaje Suave 18",
+    "description": "Disminuye el impacto de cualquier caída. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r19": {
+    "title": "Aterrizaje Suave 19",
+    "description": "Disminuye el impacto de cualquier caída. (+1.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r20": {
+    "title": "Aterrizaje Suave 20",
+    "description": "Disminuye el impacto de cualquier caída. (+1.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r21": {
+    "title": "Aterrizaje Suave 21",
+    "description": "Disminuye el impacto de cualquier caída. (+1.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r22": {
+    "title": "Aterrizaje Suave 22",
+    "description": "Disminuye el impacto de cualquier caída. (+1.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r23": {
+    "title": "Aterrizaje Suave 23",
+    "description": "Disminuye el impacto de cualquier caída. (+1.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r24": {
+    "title": "Aterrizaje Suave 24",
+    "description": "Disminuye el impacto de cualquier caída. (+1.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "fall_resist_r25": {
+    "title": "Aterrizaje Suave 25",
+    "description": "Disminuye el impacto de cualquier caída. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:slime_block"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fall_reduction",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r1": {
+    "title": "Paso Silencioso 1",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r2": {
+    "title": "Paso Silencioso 2",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r3": {
+    "title": "Paso Silencioso 3",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r4": {
+    "title": "Paso Silencioso 4",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r5": {
+    "title": "Paso Silencioso 5",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r6": {
+    "title": "Paso Silencioso 6",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r7": {
+    "title": "Paso Silencioso 7",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r8": {
+    "title": "Paso Silencioso 8",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r9": {
+    "title": "Paso Silencioso 9",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r10": {
+    "title": "Paso Silencioso 10",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r11": {
+    "title": "Paso Silencioso 11",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r12": {
+    "title": "Paso Silencioso 12",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r13": {
+    "title": "Paso Silencioso 13",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r14": {
+    "title": "Paso Silencioso 14",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r15": {
+    "title": "Paso Silencioso 15",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r16": {
+    "title": "Paso Silencioso 16",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r17": {
+    "title": "Paso Silencioso 17",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r18": {
+    "title": "Paso Silencioso 18",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r19": {
+    "title": "Paso Silencioso 19",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r20": {
+    "title": "Paso Silencioso 20",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r21": {
+    "title": "Paso Silencioso 21",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r22": {
+    "title": "Paso Silencioso 22",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r23": {
+    "title": "Paso Silencioso 23",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r24": {
+    "title": "Paso Silencioso 24",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "stealth_agility_r25": {
+    "title": "Paso Silencioso 25",
+    "description": "Reduce la distancia a la que los monstruos te detectan. (+1.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:phantom_membrane"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:stealth",
+          "value": 0.04,
+          "operation": "addition"
+        }
+      }
+    ]
+  }
+}

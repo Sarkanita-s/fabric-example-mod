@@ -1,0 +1,2627 @@
+{
+  "shovel_speed_r1": {
+    "title": "Pala Ligera 1",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+0.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r2": {
+    "title": "Pala Ligera 2",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+1.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r3": {
+    "title": "Pala Ligera 3",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+1.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r4": {
+    "title": "Pala Ligera 4",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r5": {
+    "title": "Pala Ligera 5",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+2.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r6": {
+    "title": "Pala Ligera 6",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+3.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r7": {
+    "title": "Pala Ligera 7",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+3.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r8": {
+    "title": "Pala Ligera 8",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+4.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r9": {
+    "title": "Pala Ligera 9",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+4.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r10": {
+    "title": "Pala Ligera 10",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+5.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r11": {
+    "title": "Pala Ligera 11",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+5.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r12": {
+    "title": "Pala Ligera 12",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r13": {
+    "title": "Pala Ligera 13",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+6.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r14": {
+    "title": "Pala Ligera 14",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+7.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r15": {
+    "title": "Pala Ligera 15",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+7.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r16": {
+    "title": "Pala Ligera 16",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+8.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r17": {
+    "title": "Pala Ligera 17",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+8.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r18": {
+    "title": "Pala Ligera 18",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+9.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r19": {
+    "title": "Pala Ligera 19",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+9.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r20": {
+    "title": "Pala Ligera 20",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+10.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r21": {
+    "title": "Pala Ligera 21",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+10.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r22": {
+    "title": "Pala Ligera 22",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+11.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r23": {
+    "title": "Pala Ligera 23",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+11.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r24": {
+    "title": "Pala Ligera 24",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+12.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "shovel_speed_r25": {
+    "title": "Pala Ligera 25",
+    "description": "Aumenta la velocidad al cavar tierra, grava y arena. (+12.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r1": {
+    "title": "Movimiento de Tierras 1",
+    "description": "Mejora el despeje de terreno blando. (+0.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r2": {
+    "title": "Movimiento de Tierras 2",
+    "description": "Mejora el despeje de terreno blando. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r3": {
+    "title": "Movimiento de Tierras 3",
+    "description": "Mejora el despeje de terreno blando. (+0.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r4": {
+    "title": "Movimiento de Tierras 4",
+    "description": "Mejora el despeje de terreno blando. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r5": {
+    "title": "Movimiento de Tierras 5",
+    "description": "Mejora el despeje de terreno blando. (+1.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r6": {
+    "title": "Movimiento de Tierras 6",
+    "description": "Mejora el despeje de terreno blando. (+1.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r7": {
+    "title": "Movimiento de Tierras 7",
+    "description": "Mejora el despeje de terreno blando. (+2.1 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r8": {
+    "title": "Movimiento de Tierras 8",
+    "description": "Mejora el despeje de terreno blando. (+2.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r9": {
+    "title": "Movimiento de Tierras 9",
+    "description": "Mejora el despeje de terreno blando. (+2.7 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r10": {
+    "title": "Movimiento de Tierras 10",
+    "description": "Mejora el despeje de terreno blando. (+3.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r11": {
+    "title": "Movimiento de Tierras 11",
+    "description": "Mejora el despeje de terreno blando. (+3.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r12": {
+    "title": "Movimiento de Tierras 12",
+    "description": "Mejora el despeje de terreno blando. (+3.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r13": {
+    "title": "Movimiento de Tierras 13",
+    "description": "Mejora el despeje de terreno blando. (+3.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r14": {
+    "title": "Movimiento de Tierras 14",
+    "description": "Mejora el despeje de terreno blando. (+4.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r15": {
+    "title": "Movimiento de Tierras 15",
+    "description": "Mejora el despeje de terreno blando. (+4.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r16": {
+    "title": "Movimiento de Tierras 16",
+    "description": "Mejora el despeje de terreno blando. (+4.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r17": {
+    "title": "Movimiento de Tierras 17",
+    "description": "Mejora el despeje de terreno blando. (+5.1 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r18": {
+    "title": "Movimiento de Tierras 18",
+    "description": "Mejora el despeje de terreno blando. (+5.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r19": {
+    "title": "Movimiento de Tierras 19",
+    "description": "Mejora el despeje de terreno blando. (+5.7 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r20": {
+    "title": "Movimiento de Tierras 20",
+    "description": "Mejora el despeje de terreno blando. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r21": {
+    "title": "Movimiento de Tierras 21",
+    "description": "Mejora el despeje de terreno blando. (+6.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r22": {
+    "title": "Movimiento de Tierras 22",
+    "description": "Mejora el despeje de terreno blando. (+6.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r23": {
+    "title": "Movimiento de Tierras 23",
+    "description": "Mejora el despeje de terreno blando. (+6.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r24": {
+    "title": "Movimiento de Tierras 24",
+    "description": "Mejora el despeje de terreno blando. (+7.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dig_efficiency_r25": {
+    "title": "Movimiento de Tierras 25",
+    "description": "Mejora el despeje de terreno blando. (+7.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r1": {
+    "title": "Buscador de Fósiles 1",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r2": {
+    "title": "Buscador de Fósiles 2",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r3": {
+    "title": "Buscador de Fósiles 3",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r4": {
+    "title": "Buscador de Fósiles 4",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r5": {
+    "title": "Buscador de Fósiles 5",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r6": {
+    "title": "Buscador de Fósiles 6",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r7": {
+    "title": "Buscador de Fósiles 7",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r8": {
+    "title": "Buscador de Fósiles 8",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r9": {
+    "title": "Buscador de Fósiles 9",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r10": {
+    "title": "Buscador de Fósiles 10",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r11": {
+    "title": "Buscador de Fósiles 11",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r12": {
+    "title": "Buscador de Fósiles 12",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r13": {
+    "title": "Buscador de Fósiles 13",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+1.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r14": {
+    "title": "Buscador de Fósiles 14",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+1.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r15": {
+    "title": "Buscador de Fósiles 15",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r16": {
+    "title": "Buscador de Fósiles 16",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+1.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r17": {
+    "title": "Buscador de Fósiles 17",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+1.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r18": {
+    "title": "Buscador de Fósiles 18",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r19": {
+    "title": "Buscador de Fósiles 19",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+1.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r20": {
+    "title": "Buscador de Fósiles 20",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+1.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r21": {
+    "title": "Buscador de Fósiles 21",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+1.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r22": {
+    "title": "Buscador de Fósiles 22",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+1.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r23": {
+    "title": "Buscador de Fósiles 23",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+1.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r24": {
+    "title": "Buscador de Fósiles 24",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+1.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "treasure_hunter_r25": {
+    "title": "Buscador de Fósiles 25",
+    "description": "Mayor fortuna al excavar grava y arena sospechosa. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:brush"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r1": {
+    "title": "Desenterrador 1",
+    "description": "Cava a ritmo frenético. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r2": {
+    "title": "Desenterrador 2",
+    "description": "Cava a ritmo frenético. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r3": {
+    "title": "Desenterrador 3",
+    "description": "Cava a ritmo frenético. (+1.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r4": {
+    "title": "Desenterrador 4",
+    "description": "Cava a ritmo frenético. (+2.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r5": {
+    "title": "Desenterrador 5",
+    "description": "Cava a ritmo frenético. (+3.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r6": {
+    "title": "Desenterrador 6",
+    "description": "Cava a ritmo frenético. (+3.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r7": {
+    "title": "Desenterrador 7",
+    "description": "Cava a ritmo frenético. (+4.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r8": {
+    "title": "Desenterrador 8",
+    "description": "Cava a ritmo frenético. (+4.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r9": {
+    "title": "Desenterrador 9",
+    "description": "Cava a ritmo frenético. (+5.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r10": {
+    "title": "Desenterrador 10",
+    "description": "Cava a ritmo frenético. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r11": {
+    "title": "Desenterrador 11",
+    "description": "Cava a ritmo frenético. (+6.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r12": {
+    "title": "Desenterrador 12",
+    "description": "Cava a ritmo frenético. (+7.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r13": {
+    "title": "Desenterrador 13",
+    "description": "Cava a ritmo frenético. (+7.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r14": {
+    "title": "Desenterrador 14",
+    "description": "Cava a ritmo frenético. (+8.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r15": {
+    "title": "Desenterrador 15",
+    "description": "Cava a ritmo frenético. (+9.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r16": {
+    "title": "Desenterrador 16",
+    "description": "Cava a ritmo frenético. (+9.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r17": {
+    "title": "Desenterrador 17",
+    "description": "Cava a ritmo frenético. (+10.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r18": {
+    "title": "Desenterrador 18",
+    "description": "Cava a ritmo frenético. (+10.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r19": {
+    "title": "Desenterrador 19",
+    "description": "Cava a ritmo frenético. (+11.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r20": {
+    "title": "Desenterrador 20",
+    "description": "Cava a ritmo frenético. (+12.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r21": {
+    "title": "Desenterrador 21",
+    "description": "Cava a ritmo frenético. (+12.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r22": {
+    "title": "Desenterrador 22",
+    "description": "Cava a ritmo frenético. (+13.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r23": {
+    "title": "Desenterrador 23",
+    "description": "Cava a ritmo frenético. (+13.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r24": {
+    "title": "Desenterrador 24",
+    "description": "Cava a ritmo frenético. (+14.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "dredge_r25": {
+    "title": "Desenterrador 25",
+    "description": "Cava a ritmo frenético. (+15.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_shovel"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:shovel_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r1": {
+    "title": "Maestro Arqueólogo 1",
+    "description": "Otorga más experiencia al remover terrenos. (+0.06 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r2": {
+    "title": "Maestro Arqueólogo 2",
+    "description": "Otorga más experiencia al remover terrenos. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r3": {
+    "title": "Maestro Arqueólogo 3",
+    "description": "Otorga más experiencia al remover terrenos. (+0.18 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r4": {
+    "title": "Maestro Arqueólogo 4",
+    "description": "Otorga más experiencia al remover terrenos. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r5": {
+    "title": "Maestro Arqueólogo 5",
+    "description": "Otorga más experiencia al remover terrenos. (+0.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r6": {
+    "title": "Maestro Arqueólogo 6",
+    "description": "Otorga más experiencia al remover terrenos. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r7": {
+    "title": "Maestro Arqueólogo 7",
+    "description": "Otorga más experiencia al remover terrenos. (+0.42 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r8": {
+    "title": "Maestro Arqueólogo 8",
+    "description": "Otorga más experiencia al remover terrenos. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r9": {
+    "title": "Maestro Arqueólogo 9",
+    "description": "Otorga más experiencia al remover terrenos. (+0.54 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r10": {
+    "title": "Maestro Arqueólogo 10",
+    "description": "Otorga más experiencia al remover terrenos. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r11": {
+    "title": "Maestro Arqueólogo 11",
+    "description": "Otorga más experiencia al remover terrenos. (+0.66 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r12": {
+    "title": "Maestro Arqueólogo 12",
+    "description": "Otorga más experiencia al remover terrenos. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r13": {
+    "title": "Maestro Arqueólogo 13",
+    "description": "Otorga más experiencia al remover terrenos. (+0.78 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r14": {
+    "title": "Maestro Arqueólogo 14",
+    "description": "Otorga más experiencia al remover terrenos. (+0.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r15": {
+    "title": "Maestro Arqueólogo 15",
+    "description": "Otorga más experiencia al remover terrenos. (+0.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r16": {
+    "title": "Maestro Arqueólogo 16",
+    "description": "Otorga más experiencia al remover terrenos. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r17": {
+    "title": "Maestro Arqueólogo 17",
+    "description": "Otorga más experiencia al remover terrenos. (+1.02 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r18": {
+    "title": "Maestro Arqueólogo 18",
+    "description": "Otorga más experiencia al remover terrenos. (+1.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r19": {
+    "title": "Maestro Arqueólogo 19",
+    "description": "Otorga más experiencia al remover terrenos. (+1.14 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r20": {
+    "title": "Maestro Arqueólogo 20",
+    "description": "Otorga más experiencia al remover terrenos. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r21": {
+    "title": "Maestro Arqueólogo 21",
+    "description": "Otorga más experiencia al remover terrenos. (+1.26 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r22": {
+    "title": "Maestro Arqueólogo 22",
+    "description": "Otorga más experiencia al remover terrenos. (+1.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r23": {
+    "title": "Maestro Arqueólogo 23",
+    "description": "Otorga más experiencia al remover terrenos. (+1.38 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r24": {
+    "title": "Maestro Arqueólogo 24",
+    "description": "Otorga más experiencia al remover terrenos. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "archaeology_r25": {
+    "title": "Maestro Arqueólogo 25",
+    "description": "Otorga más experiencia al remover terrenos. (+1.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:clay_ball"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  }
+}

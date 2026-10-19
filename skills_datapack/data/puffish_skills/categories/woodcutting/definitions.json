@@ -1,0 +1,2627 @@
+{
+  "axe_speed_r1": {
+    "title": "Corte Rápido 1",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+0.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r2": {
+    "title": "Corte Rápido 2",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+1.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r3": {
+    "title": "Corte Rápido 3",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+1.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r4": {
+    "title": "Corte Rápido 4",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r5": {
+    "title": "Corte Rápido 5",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+2.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r6": {
+    "title": "Corte Rápido 6",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+3.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r7": {
+    "title": "Corte Rápido 7",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+3.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r8": {
+    "title": "Corte Rápido 8",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+4.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r9": {
+    "title": "Corte Rápido 9",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+4.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r10": {
+    "title": "Corte Rápido 10",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+5.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r11": {
+    "title": "Corte Rápido 11",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+5.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r12": {
+    "title": "Corte Rápido 12",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r13": {
+    "title": "Corte Rápido 13",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+6.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r14": {
+    "title": "Corte Rápido 14",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+7.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r15": {
+    "title": "Corte Rápido 15",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+7.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r16": {
+    "title": "Corte Rápido 16",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+8.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r17": {
+    "title": "Corte Rápido 17",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+8.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r18": {
+    "title": "Corte Rápido 18",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+9.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r19": {
+    "title": "Corte Rápido 19",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+9.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r20": {
+    "title": "Corte Rápido 20",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+10.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r21": {
+    "title": "Corte Rápido 21",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+10.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r22": {
+    "title": "Corte Rápido 22",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+11.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r23": {
+    "title": "Corte Rápido 23",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+11.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r24": {
+    "title": "Corte Rápido 24",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+12.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "axe_speed_r25": {
+    "title": "Corte Rápido 25",
+    "description": "Aumenta la velocidad al cortar troncos y madera. (+12.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r1": {
+    "title": "Fuerza Maderera 1",
+    "description": "Acelera el quiebre de derivados de madera. (+0.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r2": {
+    "title": "Fuerza Maderera 2",
+    "description": "Acelera el quiebre de derivados de madera. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r3": {
+    "title": "Fuerza Maderera 3",
+    "description": "Acelera el quiebre de derivados de madera. (+0.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r4": {
+    "title": "Fuerza Maderera 4",
+    "description": "Acelera el quiebre de derivados de madera. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r5": {
+    "title": "Fuerza Maderera 5",
+    "description": "Acelera el quiebre de derivados de madera. (+1.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r6": {
+    "title": "Fuerza Maderera 6",
+    "description": "Acelera el quiebre de derivados de madera. (+1.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r7": {
+    "title": "Fuerza Maderera 7",
+    "description": "Acelera el quiebre de derivados de madera. (+2.1 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r8": {
+    "title": "Fuerza Maderera 8",
+    "description": "Acelera el quiebre de derivados de madera. (+2.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r9": {
+    "title": "Fuerza Maderera 9",
+    "description": "Acelera el quiebre de derivados de madera. (+2.7 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r10": {
+    "title": "Fuerza Maderera 10",
+    "description": "Acelera el quiebre de derivados de madera. (+3.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r11": {
+    "title": "Fuerza Maderera 11",
+    "description": "Acelera el quiebre de derivados de madera. (+3.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r12": {
+    "title": "Fuerza Maderera 12",
+    "description": "Acelera el quiebre de derivados de madera. (+3.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r13": {
+    "title": "Fuerza Maderera 13",
+    "description": "Acelera el quiebre de derivados de madera. (+3.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r14": {
+    "title": "Fuerza Maderera 14",
+    "description": "Acelera el quiebre de derivados de madera. (+4.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r15": {
+    "title": "Fuerza Maderera 15",
+    "description": "Acelera el quiebre de derivados de madera. (+4.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r16": {
+    "title": "Fuerza Maderera 16",
+    "description": "Acelera el quiebre de derivados de madera. (+4.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r17": {
+    "title": "Fuerza Maderera 17",
+    "description": "Acelera el quiebre de derivados de madera. (+5.1 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r18": {
+    "title": "Fuerza Maderera 18",
+    "description": "Acelera el quiebre de derivados de madera. (+5.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r19": {
+    "title": "Fuerza Maderera 19",
+    "description": "Acelera el quiebre de derivados de madera. (+5.7 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r20": {
+    "title": "Fuerza Maderera 20",
+    "description": "Acelera el quiebre de derivados de madera. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r21": {
+    "title": "Fuerza Maderera 21",
+    "description": "Acelera el quiebre de derivados de madera. (+6.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r22": {
+    "title": "Fuerza Maderera 22",
+    "description": "Acelera el quiebre de derivados de madera. (+6.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r23": {
+    "title": "Fuerza Maderera 23",
+    "description": "Acelera el quiebre de derivados de madera. (+6.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r24": {
+    "title": "Fuerza Maderera 24",
+    "description": "Acelera el quiebre de derivados de madera. (+7.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "lumber_power_r25": {
+    "title": "Fuerza Maderera 25",
+    "description": "Acelera el quiebre de derivados de madera. (+7.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:golden_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 0.3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r1": {
+    "title": "Resina y Frutos 1",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+0.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r2": {
+    "title": "Resina y Frutos 2",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+0.16 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r3": {
+    "title": "Resina y Frutos 3",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r4": {
+    "title": "Resina y Frutos 4",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+0.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r5": {
+    "title": "Resina y Frutos 5",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+0.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r6": {
+    "title": "Resina y Frutos 6",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r7": {
+    "title": "Resina y Frutos 7",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+0.56 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r8": {
+    "title": "Resina y Frutos 8",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+0.64 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r9": {
+    "title": "Resina y Frutos 9",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r10": {
+    "title": "Resina y Frutos 10",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+0.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r11": {
+    "title": "Resina y Frutos 11",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+0.88 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r12": {
+    "title": "Resina y Frutos 12",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r13": {
+    "title": "Resina y Frutos 13",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+1.04 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r14": {
+    "title": "Resina y Frutos 14",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+1.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r15": {
+    "title": "Resina y Frutos 15",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r16": {
+    "title": "Resina y Frutos 16",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+1.28 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r17": {
+    "title": "Resina y Frutos 17",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+1.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r18": {
+    "title": "Resina y Frutos 18",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r19": {
+    "title": "Resina y Frutos 19",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+1.52 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r20": {
+    "title": "Resina y Frutos 20",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+1.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r21": {
+    "title": "Resina y Frutos 21",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+1.68 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r22": {
+    "title": "Resina y Frutos 22",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+1.76 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r23": {
+    "title": "Resina y Frutos 23",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+1.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r24": {
+    "title": "Resina y Frutos 24",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+1.92 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "sapling_drop_r25": {
+    "title": "Resina y Frutos 25",
+    "description": "Mejora la probabilidad de drops al talar y cortar hojas. (+2.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:apple"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 0.08,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r1": {
+    "title": "Hacha Silvícola 1",
+    "description": "Tala bosques en segundos. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r2": {
+    "title": "Hacha Silvícola 2",
+    "description": "Tala bosques en segundos. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r3": {
+    "title": "Hacha Silvícola 3",
+    "description": "Tala bosques en segundos. (+1.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r4": {
+    "title": "Hacha Silvícola 4",
+    "description": "Tala bosques en segundos. (+2.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r5": {
+    "title": "Hacha Silvícola 5",
+    "description": "Tala bosques en segundos. (+3.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r6": {
+    "title": "Hacha Silvícola 6",
+    "description": "Tala bosques en segundos. (+3.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r7": {
+    "title": "Hacha Silvícola 7",
+    "description": "Tala bosques en segundos. (+4.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r8": {
+    "title": "Hacha Silvícola 8",
+    "description": "Tala bosques en segundos. (+4.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r9": {
+    "title": "Hacha Silvícola 9",
+    "description": "Tala bosques en segundos. (+5.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r10": {
+    "title": "Hacha Silvícola 10",
+    "description": "Tala bosques en segundos. (+6.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r11": {
+    "title": "Hacha Silvícola 11",
+    "description": "Tala bosques en segundos. (+6.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r12": {
+    "title": "Hacha Silvícola 12",
+    "description": "Tala bosques en segundos. (+7.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r13": {
+    "title": "Hacha Silvícola 13",
+    "description": "Tala bosques en segundos. (+7.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r14": {
+    "title": "Hacha Silvícola 14",
+    "description": "Tala bosques en segundos. (+8.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r15": {
+    "title": "Hacha Silvícola 15",
+    "description": "Tala bosques en segundos. (+9.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r16": {
+    "title": "Hacha Silvícola 16",
+    "description": "Tala bosques en segundos. (+9.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r17": {
+    "title": "Hacha Silvícola 17",
+    "description": "Tala bosques en segundos. (+10.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r18": {
+    "title": "Hacha Silvícola 18",
+    "description": "Tala bosques en segundos. (+10.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r19": {
+    "title": "Hacha Silvícola 19",
+    "description": "Tala bosques en segundos. (+11.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r20": {
+    "title": "Hacha Silvícola 20",
+    "description": "Tala bosques en segundos. (+12.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r21": {
+    "title": "Hacha Silvícola 21",
+    "description": "Tala bosques en segundos. (+12.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r22": {
+    "title": "Hacha Silvícola 22",
+    "description": "Tala bosques en segundos. (+13.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r23": {
+    "title": "Hacha Silvícola 23",
+    "description": "Tala bosques en segundos. (+13.8 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r24": {
+    "title": "Hacha Silvícola 24",
+    "description": "Tala bosques en segundos. (+14.4 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "timber_master_r25": {
+    "title": "Hacha Silvícola 25",
+    "description": "Tala bosques en segundos. (+15.0 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 0.6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r1": {
+    "title": "Guardián del Bosque 1",
+    "description": "Bonificación de experiencia por talar. (+0.06 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r2": {
+    "title": "Guardián del Bosque 2",
+    "description": "Bonificación de experiencia por talar. (+0.12 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r3": {
+    "title": "Guardián del Bosque 3",
+    "description": "Bonificación de experiencia por talar. (+0.18 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r4": {
+    "title": "Guardián del Bosque 4",
+    "description": "Bonificación de experiencia por talar. (+0.24 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r5": {
+    "title": "Guardián del Bosque 5",
+    "description": "Bonificación de experiencia por talar. (+0.3 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r6": {
+    "title": "Guardián del Bosque 6",
+    "description": "Bonificación de experiencia por talar. (+0.36 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r7": {
+    "title": "Guardián del Bosque 7",
+    "description": "Bonificación de experiencia por talar. (+0.42 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r8": {
+    "title": "Guardián del Bosque 8",
+    "description": "Bonificación de experiencia por talar. (+0.48 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r9": {
+    "title": "Guardián del Bosque 9",
+    "description": "Bonificación de experiencia por talar. (+0.54 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r10": {
+    "title": "Guardián del Bosque 10",
+    "description": "Bonificación de experiencia por talar. (+0.6 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r11": {
+    "title": "Guardián del Bosque 11",
+    "description": "Bonificación de experiencia por talar. (+0.66 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r12": {
+    "title": "Guardián del Bosque 12",
+    "description": "Bonificación de experiencia por talar. (+0.72 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r13": {
+    "title": "Guardián del Bosque 13",
+    "description": "Bonificación de experiencia por talar. (+0.78 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r14": {
+    "title": "Guardián del Bosque 14",
+    "description": "Bonificación de experiencia por talar. (+0.84 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r15": {
+    "title": "Guardián del Bosque 15",
+    "description": "Bonificación de experiencia por talar. (+0.9 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r16": {
+    "title": "Guardián del Bosque 16",
+    "description": "Bonificación de experiencia por talar. (+0.96 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r17": {
+    "title": "Guardián del Bosque 17",
+    "description": "Bonificación de experiencia por talar. (+1.02 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r18": {
+    "title": "Guardián del Bosque 18",
+    "description": "Bonificación de experiencia por talar. (+1.08 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r19": {
+    "title": "Guardián del Bosque 19",
+    "description": "Bonificación de experiencia por talar. (+1.14 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r20": {
+    "title": "Guardián del Bosque 20",
+    "description": "Bonificación de experiencia por talar. (+1.2 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r21": {
+    "title": "Guardián del Bosque 21",
+    "description": "Bonificación de experiencia por talar. (+1.26 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r22": {
+    "title": "Guardián del Bosque 22",
+    "description": "Bonificación de experiencia por talar. (+1.32 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r23": {
+    "title": "Guardián del Bosque 23",
+    "description": "Bonificación de experiencia por talar. (+1.38 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r24": {
+    "title": "Guardián del Bosque 24",
+    "description": "Bonificación de experiencia por talar. (+1.44 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "forester_r25": {
+    "title": "Guardián del Bosque 25",
+    "description": "Bonificación de experiencia por talar. (+1.5 total)",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "minecraft:cherry_sapling"
+      }
+    },
+    "cost": 1,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 0.06,
+          "operation": "addition"
+        }
+      }
+    ]
+  }
+}
